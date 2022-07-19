@@ -1,4 +1,4 @@
-# APL 104: Solid Mechanics (Odd semester 2022)
+# APL 104: Solid Mechanics (Fall 2022)
 
 ## Course Info
 
@@ -54,12 +54,13 @@
 
 - Large strain, large deformation, Green strain, Euler strain, strain-displacement relation revisited.
 
-
+<!--
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#lecture-schedule) are to cover the major topics. 
 * [**Tutorials**](#tutorial) are resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial*]    
 * [**Homework assignments**](#homework-assignment) are to provide practice for evaluating your progress on the understanding of the course material. 
 * [**Quizzes**](#quiz) are to evaluate your knowledge and understanding. There will be *three quizzes* over the course. 
+-->
 
 ## Course Objectives
 By the end of this course, the students should be able to  
@@ -69,7 +70,7 @@ By the end of this course, the students should be able to
 
 ## Course Textbook 
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
-* Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)
+* Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
 * Srinath, L.S. *"Advanced Solid Mechanics"*, Elsevier, 2018.
 * Timoshenko, S.P. and Goodier, J.N *"Theory of Elasticity"*, McGraw Hill, 2017.
 * Sadd, M.H. *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
