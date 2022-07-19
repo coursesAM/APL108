@@ -75,6 +75,7 @@ This course is not based on any particular textbook. However, the course materia
 * Sadd, M.H. *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
 
 ## Lecture Schedule
+
 Date |Module|Topics|Lecture Notes|
 |:----:|:-----|:---------:|:----:|
 |August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
@@ -91,6 +92,7 @@ Again, students **do not have to** inform TA or instructor for their absent in t
 <!--
 ### Schedule 
 ## AE
+
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|May 19 at 12:30 pm|100 minutes|CPH 1346|[**Link**](doc/Quiz1_Description.md)|
@@ -132,6 +134,7 @@ TAs will not manually grade students' homework. If they pass all testers, they w
 Note that TAs will check the time records of the latest submitted solutions. Please do not revise (resubmit) your homework assignment after due date. This will be considered as delay submission. 
 
 ### Schedule
+
 |HW|Topic|Start date|Due date|
 |:---|:-----|:-----|:----|
 |HW 01|Module 01            |May 04|May 13|
@@ -162,6 +165,7 @@ Please follow the instruction having Discussions on LEARN below:
 Before you ask questions, please take a look at the following [**Q&A document**](qna) first. It is a compilation of frequently asked questions for each Module. You might find the answers to your questions!
 
 ## Grading  
+
 |Component|Scores|
 |:---|:-----|
 |**Pre-assessment**| 9 |
