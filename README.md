@@ -115,16 +115,11 @@ Again, students **do not have to** inform TA or instructor for their absent in t
 ## Policy for Cheating 
 <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
 
-**This course has two full-time WEEF TAs. If you have a question, you need to visit the WEEF TA office to ask their helps. Also, you can use LEARN discussion board to ask questions. Do not discuss your homework to your colleagues before their submission.**  
-
-Students are required to submit their assignments individually. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement and pre-assessment.**
-
-Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change their friends' code. **You should not trust your friends.** Once you share the solution with your friend, you will likely get caught for cheating. Sharing your solutions with your friend will not benefit you or your friends, and overall is a dumb thing to do. 
+**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz.**
 
 What's worse, once you are cheating, your and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake it in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster. **Please do not do anything you might regret.** 
 
-Please review [**Policy 71 – Student Discipline**](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71).
-          
+<!--         
 ## Homework Assignment
 The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. Problems in the homework assignments are more challenging than examples or problems in the course materials. You might seek bits of help from your colleagues or TAs. 
 
@@ -135,6 +130,8 @@ There are 8 homework assignments. Each homework assignment have 2 points on a fi
 TAs will not manually grade students' homework. If they pass all testers, they will get a full mark. All problems are equal weights. For example, students pass only 3 questions out of 6, students will get 1 point.  
 
 Note that TAs will check the time records of the latest submitted solutions. Please do not revise (resubmit) your homework assignment after due date. This will be considered as delay submission. 
+
+-->
 
 ### Schedule
 
