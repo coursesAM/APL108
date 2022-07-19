@@ -1,5 +1,8 @@
 # APL 104: Solid Mechanics (Fall semester 2022)
 
+![image](https://user-images.githubusercontent.com/109568856/179663482-8b6b6fb0-1ed7-494c-9b82-5f720bb4d614.png)
+
+
 ## Course Info
 
 **Credit:** 4 units (3-1-0) <br> <br>
