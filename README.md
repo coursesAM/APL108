@@ -35,10 +35,12 @@
 - [Tutorial](#tutorial)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
+<!--
 - [Homework Assignment](#homework-assignment)
 - [Communication](#communication)
 - [Grading](#grading)
 - [Note](#note)
+-->
 
 ## Course Outline
 - Introduction to general concept of elasticity
@@ -131,7 +133,7 @@ TAs will not manually grade students' homework. If they pass all testers, they w
 
 Note that TAs will check the time records of the latest submitted solutions. Please do not revise (resubmit) your homework assignment after due date. This will be considered as delay submission. 
 
--->
+
 
 ### Schedule
 
@@ -196,3 +198,4 @@ A student is expected to know what constitutes academic integrity to avoid commi
 Text matching software (Turnitin®) may be used to screen assignments in this course. Turnitin® is used to verify that all materials and sources in assignments are documented. Students' submissions are stored on a U.S. server, therefore students must be given an alternative (e.g., scaffolded assignment or annotated bibliography), if they are concerned about their privacy and/or security. Students will be given due notice, in the first week of the term and/or at the time assignment details are provided, about arrangements and alternatives for the use of Turnitin in this course.</p>
 
 <p>It is the responsibility of the student to notify the instructor if they, in the first week of term or at the time assignment details are provided, wish to submit alternate assignment.</p>
+-->
