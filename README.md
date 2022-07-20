@@ -117,9 +117,7 @@ Again, students **do not have to** inform TA or instructor for their absent in t
 ## Policy for Cheating 
 <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
 
-**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz.**
-
-What's worse, once you are cheating, your and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake it in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster. **Please do not do anything you might regret.** 
+**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz. Please do not do anything you might regret.** 
 
 <!--         
 ## Homework Assignment
