@@ -24,7 +24,7 @@
 **Last updated:** 2022-07-18  
 
 ## Prerequisites
-"Engineering Mechanics" (APL100) is a prerequisite for this course, which you  already learned in the 1st year. 
+**Engineering Mechanics (APL100)** is a prerequisite for this course, which you  already learned in the 1st year. 
 
 ## Table of Contents
 - [Course Outline](#course-outline)
