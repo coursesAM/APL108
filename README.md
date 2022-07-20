@@ -28,7 +28,6 @@
 
 ## Table of Contents
 - [Course Outline](#course-outline)
-[//]: <> - [Course Objectives](#course-objectives)
 - [Course Textbook](#course-textbook)
 - [Lecture Schedule](#)
 - [Course Attendance](#course-attendance)
