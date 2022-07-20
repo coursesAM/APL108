@@ -115,7 +115,8 @@ Again, students **do not have to** inform TA or instructor for their absent in t
 -->
 
 ## Policy for Cheating 
-<del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
+<!-- <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
+-->
 
 **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz. Please do not do anything you might regret.** 
 
