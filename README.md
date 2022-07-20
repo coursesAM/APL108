@@ -28,7 +28,7 @@
 
 ## Table of Contents
 - [Course Outline](#course-outline)
-- [Course Objectives](#course-objectives)
+[//]: <> - [Course Objectives](#course-objectives)
 - [Course Textbook](#course-textbook)
 - [Lecture Schedule](#)
 - [Course Attendance](#course-attendance)
@@ -58,13 +58,14 @@ This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Tutorials**](#tutorial) are resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial*]    
 * [**Homework assignments**](#homework-assignment) are to provide practice for evaluating your progress on the understanding of the course material. 
 * [**Quizzes**](#quiz) are to evaluate your knowledge and understanding. There will be *three quizzes* over the course. 
--->
+
 
 ## Course Objectives
 By the end of this course, the students should be able to  
 1. Define stress and strain tensors
 2. Determine strain invariants, principal strains and their directions.
 3. Develop constitutive relationships between stress and strain for linearly elastic solid.
+-->
 
 ## Course Textbook 
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
