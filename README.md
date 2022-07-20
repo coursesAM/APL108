@@ -44,27 +44,21 @@
 
 ## Course Outline
 - Introduction to general concept of elasticity
-
 - General introduction to stress, stress at a point (2D and 3D), transformation of stress, Mohr’s circle.
-
 - Principal stress and Principal plane, Maximum shear plain, Pure shear
-
 - Equilibrium and compatibility equations, plane stress, plane strain
-
 - Stress invariants, octahedral stress, deviatoric and hydrostatic state of stress
-
 - Strain at a point, transformation of strain, Principal strain, shear strain
-
 - Constitutive relation, Strain-displacement relation, Generalized Hooke’s law, Material anisotropy, Strain compatibility equation, Airy’s stress function, Energy Methods
-
 - Large strain, large deformation, Green strain, Euler strain, strain-displacement relation revisited.
 
-
+<!--
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#lecture-schedule) are to cover the major topics. 
 * [**Tutorials**](#tutorial) are resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial*]    
 * [**Homework assignments**](#homework-assignment) are to provide practice for evaluating your progress on the understanding of the course material. 
 * [**Quizzes**](#quiz) are to evaluate your knowledge and understanding. There will be *three quizzes* over the course. 
+-->
 
 ## Course Objectives
 By the end of this course, the students should be able to  
