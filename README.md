@@ -69,9 +69,9 @@ By the end of this course, the students should be able to
 ## Course Textbook 
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
-* Srinath, L.S. *"Advanced Solid Mechanics"*, Elsevier, 2018.
-* Timoshenko, S.P. and Goodier, J.N *"Theory of Elasticity"*, McGraw Hill, 2017.
-* Sadd, M.H. *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
+* Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
+* Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
+* Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
 
 ## Lecture Schedule
 
