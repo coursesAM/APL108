@@ -158,7 +158,6 @@ Please follow the instruction having Discussions on LEARN below:
 - Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your questions are complete and legible.
 - In addition, please check if the same question was asked before.  
 - Inappropriate posts and comments will be immediately deleted and closed without notice.
-- hello everyone
 
 Before you ask questions, please take a look at the following [**Q&A document**](qna) first. It is a compilation of frequently asked questions for each Module. You might find the answers to your questions!
 
