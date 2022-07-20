@@ -84,7 +84,9 @@ This course is not based on any particular textbook. However, the course materia
 ## Course Attendance
 Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, job interview, please send an appropriate email with email subject specifying the subject code APL 104.
 
+<!--
 Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
+-->
 
 ## Quiz
 
