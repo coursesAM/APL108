@@ -36,7 +36,6 @@
 - [Course Textbook](#course-textbook)
 - [Lecture Schedule](#)
 - [Course Attendance](#course-attendance)
-- [Tutorial](#tutorial)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
 
