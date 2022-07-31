@@ -12,16 +12,19 @@
 **TA 3:** Roushan Kumar (amz208472@am.iitd.ac.in) <br>
 **TA 4:** Vinayak (amz218561@am.iitd.ac.in) <br><br>
 
-**Section A:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
-**Tutorial Session A:** Thu (2:30 to 3:20 PM) at LHC 1346 <br> <br>
+**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC108 <br><br>
 
-**Section B:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
-**Tutorial Session B:** Fri (2:30 to 3:20 PM) at LHC 108 <br> <br>
+**Tutorial Session A:** Mon (3:00 to 4:00 PM) at LHC 606 <br> 
+**Tutorial Session B:** Tue (3:00 to 4:00 PM) at LHC 606 <br> 
+**Tutorial Session C:** Wed (3:00 to 4:00 PM) at LHC 606 <br> 
+**Tutorial Session D:** Fri (3:00 to 4:00 PM) at LHC 606 <br> <br>
 
-**Office hours (TA)**: Visit the TA office <br> 
-**Office hours (Instructor)**: By appointment <br>
+**Office hours (TA)**: By email appointment <br> 
+**Office hours (Instructor)**: By email appointment <br><br>
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Enggineering disciplines.
+
+**NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
 **Last updated:** 2022-07-31  
 
