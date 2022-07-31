@@ -8,7 +8,9 @@
 **Credit:** 4 units (3-1-0) <br> <br>
 **Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 **TA 1:** Atul Kumar (amz218551@am.iitd.ac.in) <br> 
-**TA 2:** Some student (amz____@am.iitd.ac.in) <br><br> 
+**TA 2:** Intaf Alam (amz198096@am.iitd.ac.in) <br> 
+**TA 3:** Roushan Kumar (amz208472@am.iitd.ac.in) <br>
+**TA 4:** Vinayak (amz218561@am.iitd.ac.in) <br><br>
 
 **Section A:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
 **Tutorial Session A:** Thu (2:30 to 3:20 PM) at LHC 1346 <br> <br>
@@ -21,7 +23,7 @@
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Enggineering disciplines.
 
-**Last updated:** 2022-07-18  
+**Last updated:** 2022-07-31  
 
 ## Prerequisites
 **Engineering Mechanics (APL100)** is a prerequisite for this course, which you  already learned in the 1st year. 
@@ -82,7 +84,7 @@ This course is not based on any particular textbook. However, the course materia
 |August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, job interview, please send an appropriate email with email subject specifying the subject code APL 104.
+Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
 
 <!--
 Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
