@@ -39,12 +39,6 @@
 - [Tutorial](#tutorial)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
-<!--
-- [Homework Assignment](#homework-assignment)
-- [Communication](#communication)
-- [Grading](#grading)
-- [Note](#note)
--->
 
 ## Course Outline
 - Introduction to general concept of elasticity
