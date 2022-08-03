@@ -27,16 +27,26 @@
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
-**Last updated:** 2022-08-03  
-
 ## Prerequisites
 **Engineering Mechanics (APL100)** is a prerequisite for this course, which you  already learned in the 1st year. 
+
+## Lecture Schedule
+
+| Date |Module|Topics|Lecture Notes|
+|:----:|:-----|:---------:|:----:|
+|August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
+
+<!--
+|August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
+|August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
+-->
+
 
 ## Table of Contents
 - [Course Outline](#course-outline)
 - [Course Layout](#course-layout)
 - [Course Textbook](#course-textbook)
-- [Lecture Schedule](#lecture-schedule)
+- [Grading](#grading)
 - [Course Attendance](#course-attendance)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
@@ -65,24 +75,6 @@ This course is not based on any particular textbook. However, the course materia
 * Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
 * Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
 
-## Lecture Schedule
-
-| Date |Module|Topics|Lecture Notes|
-|:----:|:-----|:---------:|:----:|
-|August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
-
-<!--
-|August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
-|August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
--->
-
-## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes to receive 10% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
-
-
-## Quiz
-Will be announced in due time.
-
 ## Grading  
 |Component|Scores|
 |:---|:-----|
@@ -92,6 +84,13 @@ Will be announced in due time.
 |**Quiz #2**| 10 |
 |**Major**| 40 |
 |**Total** |100| 
+
+## Course Attendance
+Students are highly encouraged to attend all classes. They have to attend the classes to receive 10% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
+
+
+## Quiz
+Will be announced in due time.
 
 
 <!--
