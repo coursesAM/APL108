@@ -81,8 +81,8 @@ This course is not based on any particular textbook. However, the course materia
 |Component|Scores|
 |:---|:-----|
 |**Attendance**| 10 |
-|**Quiz #1**| 30 |
-|**Minor**| 10 |
+|**Quiz #1**| 10 |
+|**Minor**| 30 |
 |**Quiz #2**| 10 |
 |**Major**| 40 |
 |**Total** |100| 
