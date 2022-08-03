@@ -45,7 +45,7 @@
 ## Table of Contents
 - [Course Outline](#course-outline)
 - [Course Layout](#course-layout)
-- [Course Textbook](#course-textbook)
+- [Course References](#course-references)
 - [Grading](#grading)
 - [Course Attendance](#course-attendance)
 - [Quiz](#quiz)
@@ -68,7 +68,7 @@ This is the first course where deformation of solid bodies and the underlying co
 - Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using energy method
 - Various theories of failure and their application
 
-## Course Textbook 
+## Course References
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
 * Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
