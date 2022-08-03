@@ -23,7 +23,7 @@
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: By email appointment <br><br>
 
-**Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Enggineering disciplines.
+**Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Engineering disciplines.
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
