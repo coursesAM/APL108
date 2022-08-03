@@ -5,7 +5,7 @@
 
 ## Course Info
 
-**Credit:** 4 units (3-1-0) (3hrs of lecture, 1hr of tutorial, no practicals) <br> <br>
+**Credit:** 4 units (3-1-0) <br> <br>
 
 **Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
