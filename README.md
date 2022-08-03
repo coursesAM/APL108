@@ -77,18 +77,6 @@ This course is not based on any particular textbook. However, the course materia
 
 
 ## Grading  
-|Component|Scores|
-|:---|:-----|
-|**Pre-assessment**| 9 |
-|**Attendance**| 9 |
-|**Homework assignments**| 12 |
-|**Quiz #1**| 10 |
-|**Quiz #2**| 15 |
-|**Quiz #3**| 20 |
-|**Quiz #4**| 25 |
-|**Online engagement**|extra up to 4*|
-|**Total** |100| 
-
 
 |Component|Scores|
 |:---|:-----|
