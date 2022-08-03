@@ -37,7 +37,7 @@
 - [Course Outline](#course-outline)
 - [Course Layout](#course-layout)
 - [Course Textbook](#course-textbook)
-- [Lecture Schedule](#)
+- [Lecture Schedule](#lecture-schedule)
 - [Course Attendance](#course-attendance)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
