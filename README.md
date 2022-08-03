@@ -28,7 +28,7 @@
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
-**Last updated:** 2022-07-31  
+**Last updated:** 2022-08-03  
 
 ## Prerequisites
 **Engineering Mechanics (APL100)** is a prerequisite for this course, which you  already learned in the 1st year. 
