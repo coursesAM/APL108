@@ -34,7 +34,7 @@
 
 | Date |Module|Topics|Lecture Notes|
 |:----:|:-----|:---------:|:----:|
-|August 03|**Module 00**| mathematical Preliminaries | [Lecture 1](notes/Lecture1.pdf)|
+|August 03|**Module 00**| Mathematical Preliminaries | [Lecture 1](notes/Lecture1.pdf)|
 
 <!--
 |August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
