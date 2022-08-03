@@ -83,7 +83,7 @@ This course is not based on any particular textbook. However, the course materia
 |**Minor**| 10 |
 |**Quiz #2**| 10 |
 |**Major**| 40 |
-|**Total** |100| 
+|**Total**| 100 | 
 
 ## Course Attendance
 Students are highly encouraged to attend all classes. They have to attend the classes to receive 10% point attendance scores, **via Timble**. PLease mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with email subject specifying the subject code APL 104. <br>
