@@ -94,7 +94,7 @@ Students are highly encouraged to attend all classes. They have to attend the cl
 
 
 ## Quiz
-Dates and syllabus Will be announced in due time.
+Dates and syllabus will be announced in due time.
 
 
 ## Policy for Cheating 
