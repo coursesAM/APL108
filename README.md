@@ -86,11 +86,9 @@ This course is not based on any particular textbook. However, the course materia
 | Date |Module|Topics|Lecture Notes|
 |:----:|:-----|:---------:|:----:|
 |August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
-
-<!--
 |August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
 |August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
--->
+
 
 ## Course Attendance
 Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
