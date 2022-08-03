@@ -33,6 +33,7 @@
 
 ## Table of Contents
 - [Course Outline](#course-outline)
+- [Course Layout](#course-layout)
 - [Course Textbook](#course-textbook)
 - [Lecture Schedule](#)
 - [Course Attendance](#course-attendance)
@@ -40,14 +41,21 @@
 - [Policy for Cheating](#policy-for-cheating)
 
 ## Course Outline
-- Introduction to general concept of elasticity
-- General introduction to stress, stress at a point (2D and 3D), transformation of stress, Mohr’s circle.
-- Principal stress and Principal plane, Maximum shear plain, Pure shear
-- Equilibrium and compatibility equations, plane stress, plane strain
-- Stress invariants, octahedral stress, deviatoric and hydrostatic state of stress
-- Strain at a point, transformation of strain, Principal strain, shear strain
-- Constitutive relation, Strain-displacement relation, Generalized Hooke’s law, Material anisotropy, Strain compatibility equation, Airy’s stress function, Energy Methods
-- Large strain, large deformation, Green strain, Euler strain, strain-displacement relation revisited.
+This is the first course where deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study extension, torsion and bending of beams. The one-dimensional theory of beams are also introduced. Various theories of failure that are critical for design of machine elements in industry will also be discussed.
+
+## Course Layout
+- Mathematical preliminaries and notation; Concept of Traction vector; Concept of Stress tensor
+- Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
+- State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
+- Stress invariants; Octahedral Plane; Decomposition of stress tensor; Concept of strain and strain tensor
+- Longitudinal, shear and volumetric strains; Local infinitesimal rotation; Strain compatibility condition
+- Linear stress-strain relation for isotropic bodies; Relation between material constants
+- Stress and strain matrices in cylindrical coordinate system; Equations of equilibrium in cylindrical coordinate system
+- Axisymmetric deformations: combined extension-torsion-inflation of a cylinder
+- Bending of beams having symmetrical and non-symmetrical cross-section
+- Shear center, Shear flow in thin and open cross-section beams; Euler Bernouli and Timoshenko beam theories; beam buckling
+- Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using energy method
+- Various theories of failure and their application
 
 <!--
 This course includes lectures, tutorials, homework assignments, and quizzes:
@@ -76,8 +84,10 @@ This course is not based on any particular textbook. However, the course materia
 | Date |Module|Topics|Lecture Notes|
 |:----:|:-----|:---------:|:----:|
 |August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
+<!--
 |August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
 |August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
+-->
 
 ## Course Attendance
 Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
