@@ -9,10 +9,9 @@
 
 **Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
-**TA 1:** Atul Kumar (amz218551@am.iitd.ac.in) <br> 
-**TA 2:** Intaf Alam (amz198096@am.iitd.ac.in) <br> 
-**TA 3:** Roushan Kumar (amz208472@am.iitd.ac.in) <br>
-**TA 4:** Vinayak (amz218561@am.iitd.ac.in) <br><br>
+**TA 1:** Intaf Alam (amz198096@am.iitd.ac.in) <br> 
+**TA 2:** Roushan Kumar (amz208472@am.iitd.ac.in) <br>
+**TA 3:** Vinayak (amz218561@am.iitd.ac.in) <br><br>
 
 **Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC108 <br><br>
 
@@ -59,21 +58,6 @@ This is the first course where deformation of solid bodies and the underlying co
 - Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using energy method
 - Various theories of failure and their application
 
-<!--
-This course includes lectures, tutorials, homework assignments, and quizzes:
-* [**Lectures**](#lecture-schedule) are to cover the major topics. 
-* [**Tutorials**](#tutorial) are resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial*]    
-* [**Homework assignments**](#homework-assignment) are to provide practice for evaluating your progress on the understanding of the course material. 
-* [**Quizzes**](#quiz) are to evaluate your knowledge and understanding. There will be *three quizzes* over the course. 
-
-
-## Course Objectives
-By the end of this course, the students should be able to  
-1. Define stress and strain tensors
-2. Determine strain invariants, principal strains and their directions.
-3. Develop constitutive relationships between stress and strain for linearly elastic solid.
--->
-
 ## Course Textbook 
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
@@ -93,14 +77,21 @@ This course is not based on any particular textbook. However, the course materia
 -->
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
+Students are highly encouraged to attend all classes. They have to attend the classes to receive 10% point attendance scores. In case of unavoidable absence, such as illness, please send an appropriate email with email subject specifying the subject code APL 104.
 
-<!--
-Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
--->
 
 ## Quiz
 Will be announced in due time.
+
+## Grading  
+|Component|Scores|
+|:---|:-----|
+|**Attendance**| 10 |
+|**Quiz #1**| 30 |
+|**Minor**| 10 |
+|**Quiz #2**| 10 |
+|**Major**| 40 |
+|**Total** |100| 
 
 
 <!--
@@ -174,19 +165,7 @@ Please follow the instruction having Discussions on LEARN below:
 
 Before you ask questions, please take a look at the following [**Q&A document**](qna) first. It is a compilation of frequently asked questions for each Module. You might find the answers to your questions!
 
-## Grading  
 
-|Component|Scores|
-|:---|:-----|
-|**Pre-assessment**| 9 |
-|**Attendance**| 9 |
-|**Homework assignments**| 12 |
-|**Quiz #1**| 10 |
-|**Quiz #2**| 15 |
-|**Quiz #3**| 20 |
-|**Quiz #4**| 25 |
-|**Online engagement**|extra up to 4*|
-|**Total** |100| 
 
 ## Note
 ### Academic integrity
