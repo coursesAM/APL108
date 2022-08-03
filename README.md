@@ -100,6 +100,8 @@ Again, students **do not have to** inform TA or instructor for their absent in t
 -->
 
 ## Quiz
+Will be announced in due time.
+
 
 <!--
 ### Schedule 
