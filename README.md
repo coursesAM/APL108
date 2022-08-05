@@ -15,11 +15,11 @@
 
 **Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC108 <br><br>
 
-**Tutorial Session A:** Tue (3:00 to 4:00 PM) at LHC 606 <br> 
-**Tutorial Session B:** Wed (3:00 to 4:00 PM) at LHC 606 <br> 
-**Tutorial Session C:** Thu (3:00 to 4:00 PM) at LHC 606 <br> 
-**Tutorial Session D:** Fri  (3:00 to 4:00 PM) at LHC 606 <br> <br>
-
+**Tutorial Session A:** Tue (2:00 to 3:00 PM) at LHC 606 <br> 
+**Tutorial Session B:** Wed (2:00 to 2:00 PM) at LHC 606 <br> 
+**Tutorial Session C:** Thu (2:00 to 3:00 PM) at LHC 606 <br> 
+**Tutorial Session D:** Fri (2:00 to 3:00 PM) at LHC 606 <br> 
+**List of students in particular tutorial sessions can be accessed here: [Tutorial group list](https://docs.google.com/spreadsheets/d/1wjXqcVkSQeNQUneFRY9tIM5wFS53DPpB/edit?usp=sharing&ouid=117052463269187528720&rtpof=true&sd=true)<br><br>
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: By email appointment <br><br>
 
