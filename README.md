@@ -20,7 +20,7 @@
 **Tutorial Session C:** Thu (2:00 to 3:00 PM) at LHC 606 <br> 
 **Tutorial Session D:** Fri (2:00 to 3:00 PM) at LHC 606 <br> <br>
 
-List of students in particular tutorial sessions can be accessed here: **[Tutorial group list]**(https://docs.google.com/spreadsheets/d/1wjXqcVkSQeNQUneFRY9tIM5wFS53DPpB/edit?usp=sharing&ouid=117052463269187528720&rtpof=true&sd=true)<br><br>
+List of students in particular tutorial sessions can be accessed here: [Tutorial group list](https://docs.google.com/spreadsheets/d/1wjXqcVkSQeNQUneFRY9tIM5wFS53DPpB/edit?usp=sharing&ouid=117052463269187528720&rtpof=true&sd=true)**<br><br>
 
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: By email appointment <br><br>
