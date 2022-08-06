@@ -34,14 +34,11 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 
 ## Lecture Schedule
 
-| Date |Module|Topics|Lecture Notes|
-|:----:|:-----|:---------:|:----:|
-|August 03|**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)|
+|Module|Topics|Lecture Notes| Handwritten Classroom Notes|
+|:-----|:---------:|:----:|:-------------------------|
+|**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Classroom_notes/Mod0lec1.pdf) [Class 2](Classroom_notes/Mod0lec2.pdf) [Class 3](Classroom_notes/Mod0lec3.pdf)|
 
-<!--
-|August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
-|August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
--->
+
 
 
 ## Table of Contents
