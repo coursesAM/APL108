@@ -97,6 +97,6 @@ Dates and syllabus will be announced in due time.
 
 
 ## Policy for Cheating 
-**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz. Please do not do anything you might regret.** 
+**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding exam. Please do not do anything you might regret.** 
 
 
