@@ -42,7 +42,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Classroom_notes/Mod0_lec1.pdf) |
+| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution] |
 
 
 
