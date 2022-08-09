@@ -38,6 +38,11 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |:-----|:---------:|:----:|:-------------------------:|
 |**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Classroom_notes/Mod0_lec1.pdf) &nbsp; [Class 2](Classroom_notes/Mod0_lec2.pdf) &nbsp; [Class 3](Classroom_notes/Mod0_lec3.pdf)|
 
+## Tutorial Schedule
+
+|Topics|Tutorial Questions| Tutorial Solutions |
+|:---------:|:--------:|:--------:|
+| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Classroom_notes/Mod0_lec1.pdf) |
 
 
 
