@@ -29,8 +29,6 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
-## Prerequisites
-**Engineering Mechanics (APL100)** is a prerequisite for this course, which you  already learned in the 1st year. 
 
 ## Lecture Schedule
 
