@@ -35,9 +35,11 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |Module|Topics|Lecture Notes| Handwritten Classroom Notes|
 |:-----|:---------:|:----:|:-------------------------:|
 |**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Classroom_notes/Mod0_lec1.pdf) &nbsp; [Class 2](Classroom_notes/Mod0_lec2.pdf) &nbsp; [Class 3](Classroom_notes/Mod0_lec3.pdf)|
-
 |**Module 01**| Traction vector | [Lecture 2](https://drive.google.com/file/d/14RzFRCP_V56JR2eFWLgF0cbMLH71379X/view)| [Class 4](Classroom_notes/Mod0_lec4.pdf) &nbsp; [Class 5](Classroom_notes/Mod0_lec5.pdf) |
 
+<!--
+|**Module 02**| Stress Tensor and its transformation | [Lecture 3](https://drive.google.com/file/d/1V0RBcZnZ4d2PeDwhFvueK1CBuF6C7O2H/view)| [Class 6](Classroom_notes/Mod0_lec6.pdf) &nbsp; [Class 7](Classroom_notes/Mod0_lec7.pdf) |
+-->
 
 
 ## Tutorial Schedule
