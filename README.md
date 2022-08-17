@@ -44,7 +44,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln.pdf |
+| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln.pdf) |
 | Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution] |
 
 
