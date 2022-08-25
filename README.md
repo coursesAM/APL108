@@ -40,6 +40,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |**Module 03**| Transformation of Stress matrix | [Lecture 4](https://drive.google.com/file/d/1xbHNqTUpShEuxyCFRF7BWrJhfOLfzn61/view)| [Class 6](Classroom_notes/Mod0_lec6.pdf) |
 |**Module 04**| Stress Equilibrium equations | [Lecture 5](https://drive.google.com/file/d/1gjJq5ySpUvWaEluXbfaxpBBjugnlG4Xm/view)| [Class 7](Classroom_notes/Mod0_lec7.pdf) |
 |**Module 05**| Balance of Angular momentum | [Lecture 6](https://drive.google.com/file/d/1ekJyyGb5OqBmdx39Bi2Ytc8AO0XvJ67e/view)| [Class 8](Classroom_notes/Mod0_lec8.pdf) |
+|**Module 06**| Principal Stress and planes | [Lecture 7](https://drive.google.com/file/d/1RJj5JguIJ0HKRssn5C_9Ajny5nuf2ROB/view)| [Class 9](Classroom_notes/Mod0_lec9.pdf) |
 
 ## Tutorial Schedule
 
@@ -102,7 +103,7 @@ Students are highly encouraged to attend all classes. They have to attend the cl
 
 
 ## Quiz
-Dates and syllabus will be announced in due time.
+Quiz 1 will take place in the first week of September (tentative syllabus will be everything upto principal stress and principal planes)
 
 
 ## Policy for Cheating 
