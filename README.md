@@ -49,7 +49,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln.pdf) |
 | Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln.pdf) |
 | Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln.pdf) |
-| Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution] |
+| Stress equilibrium and principal stresses | [Tutorial 4] | [Solution] |
 
 
 ## Table of Contents
