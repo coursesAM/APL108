@@ -34,14 +34,14 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 
 |Module|Topics|Lecture Notes| Handwritten Classroom Notes|
 |:-----|:---------:|:----:|:-------------------------:|
-|**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Classroom_notes/Mod0_lec1.pdf) &nbsp; [Class 2](Classroom_notes/Mod0_lec2.pdf) &nbsp; [Class 3](Classroom_notes/Mod0_lec3.pdf)|
-|**Module 01**| Traction vector | [Lecture 2](https://drive.google.com/file/d/14RzFRCP_V56JR2eFWLgF0cbMLH71379X/view)| [Class 4](Classroom_notes/Mod0_lec4.pdf) &nbsp; [Class 5](Classroom_notes/Mod0_lec5.pdf) |
-|**Module 02**| Stress Tensor and its representation | [Lecture 3](https://drive.google.com/file/d/1V0RBcZnZ4d2PeDwhFvueK1CBuF6C7O2H/view)| [Class 6](Classroom_notes/Mod0_lec6.pdf) |
-|**Module 03**| Transformation of Stress matrix | [Lecture 4](https://drive.google.com/file/d/1xbHNqTUpShEuxyCFRF7BWrJhfOLfzn61/view)| [Class 6](Classroom_notes/Mod0_lec6.pdf) |
-|**Module 04**| Stress Equilibrium equations | [Lecture 5](https://drive.google.com/file/d/1gjJq5ySpUvWaEluXbfaxpBBjugnlG4Xm/view)| [Class 7](Classroom_notes/Mod0_lec7.pdf) |
-|**Module 05**| Balance of Angular momentum | [Lecture 6](https://drive.google.com/file/d/1ekJyyGb5OqBmdx39Bi2Ytc8AO0XvJ67e/view)| [Class 8](Classroom_notes/Mod0_lec8.pdf) |
-|**Module 06**| Principal Stress and planes <br> Maximizing Shear component of traction | [Lecture 7](https://drive.google.com/file/d/1RJj5JguIJ0HKRssn5C_9Ajny5nuf2ROB/view) <br> [Lecture 8](https://drive.google.com/file/d/12Et7Pskl0FdY7lCnmOqtKL_k_AO5gilU/view)| [Class 9](Classroom_notes/Mod0_lec9.pdf) &nbsp; [Class 10](Classroom_notes/Mod0_lec10.pdf)| 
-|**Module 07**| Mohr's circle | [Lecture 9](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) <br> [Lecture 10](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Classroom_notes/Mod0_lec11.pdf) &nbsp; [Class 12](Classroom_notes/Mod0_lec12.pdf)|
+|**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Classroom_notes/Mod0_lec3.pdf)|
+|**Module 01**| Traction vector | [Lecture 2](https://drive.google.com/file/d/14RzFRCP_V56JR2eFWLgF0cbMLH71379X/view)| [Class 4](Class/cls4.pdf) &nbsp; [Class 5](Class/cls5.pdf) |
+|**Module 02**| Stress Tensor and its representation | [Lecture 3](https://drive.google.com/file/d/1V0RBcZnZ4d2PeDwhFvueK1CBuF6C7O2H/view)| [Class 6](Class/cls6.pdf) |
+|**Module 03**| Transformation of Stress matrix | [Lecture 4](https://drive.google.com/file/d/1xbHNqTUpShEuxyCFRF7BWrJhfOLfzn61/view)| [Class 6](Class/cls6.pdf) |
+|**Module 04**| Stress Equilibrium equations | [Lecture 5](https://drive.google.com/file/d/1gjJq5ySpUvWaEluXbfaxpBBjugnlG4Xm/view)| [Class 7](Class/cls7.pdf) |
+|**Module 05**| Balance of Angular momentum | [Lecture 6](https://drive.google.com/file/d/1ekJyyGb5OqBmdx39Bi2Ytc8AO0XvJ67e/view)| [Class 8](Class/clsClass/cls8.pdf) |
+|**Module 06**| Principal Stress and planes <br> Maximizing Shear component of traction | [Lecture 7](https://drive.google.com/file/d/1RJj5JguIJ0HKRssn5C_9Ajny5nuf2ROB/view) <br> [Lecture 8](https://drive.google.com/file/d/12Et7Pskl0FdY7lCnmOqtKL_k_AO5gilU/view)| [Class 9](Class/cls9.pdf) &nbsp; [Class 10](Class/cls10.pdf)| 
+|**Module 07**| Mohr's circle | [Lecture 9](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) <br> [Lecture 10](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Class/cls11.pdf) &nbsp; [Class 12](Class/cls12.pdf)|
 
 
 ## Tutorial Schedule
