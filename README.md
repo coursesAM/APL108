@@ -41,7 +41,8 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |**Module 04**| Stress Equilibrium equations | [Lecture 5](https://drive.google.com/file/d/1gjJq5ySpUvWaEluXbfaxpBBjugnlG4Xm/view)| [Class 7](Classroom_notes/Mod0_lec7.pdf) |
 |**Module 05**| Balance of Angular momentum | [Lecture 6](https://drive.google.com/file/d/1ekJyyGb5OqBmdx39Bi2Ytc8AO0XvJ67e/view)| [Class 8](Classroom_notes/Mod0_lec8.pdf) |
 |**Module 06**| Principal Stress and planes <br> Maximizing Shear component of traction | [Lecture 7](https://drive.google.com/file/d/1RJj5JguIJ0HKRssn5C_9Ajny5nuf2ROB/view) <br> [Lecture 8](https://drive.google.com/file/d/12Et7Pskl0FdY7lCnmOqtKL_k_AO5gilU/view)| [Class 9](Classroom_notes/Mod0_lec9.pdf) &nbsp; [Class 10](Classroom_notes/Mod0_lec10.pdf)| 
-|**Module 07**| Mohr's circle | [Lecture 9](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Classroom_notes/Mod0_lec11.pdf)| 
+|**Module 07**| Mohr's circle | [Lecture 9](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) <br> [Lecture 10](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Classroom_notes/Mod0_lec11.pdf) &nbsp; [Class 12](Classroom_notes/Mod0_lec12.pdf)|
+
 
 ## Tutorial Schedule
 
