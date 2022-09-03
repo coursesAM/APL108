@@ -41,7 +41,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |**Module 04**| Stress Equilibrium equations | [Lecture 5](https://drive.google.com/file/d/1gjJq5ySpUvWaEluXbfaxpBBjugnlG4Xm/view)| [Class 7](Class/cls7.pdf) |
 |**Module 05**| Balance of Angular momentum | [Lecture 6](https://drive.google.com/file/d/1ekJyyGb5OqBmdx39Bi2Ytc8AO0XvJ67e/view)| [Class 8](Class/cls8.pdf) |
 |**Module 06**| Principal Stress and planes <br> Maximizing Shear component of traction | [Lecture 7](https://drive.google.com/file/d/1RJj5JguIJ0HKRssn5C_9Ajny5nuf2ROB/view) <br> [Lecture 8](https://drive.google.com/file/d/12Et7Pskl0FdY7lCnmOqtKL_k_AO5gilU/view)| [Class 9](Class/cls9.pdf) &nbsp; [Class 10](Class/cls10.pdf)| 
-|**Module 07**| Mohr's circle | [Lecture 9](https://drive.google.com/file/d/1yQ5eDPKkrA4oTARy7NUXIIHYSnU0bUdz/view) <br> [Lecture 10](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Class/cls11.pdf) &nbsp; [Class 12](Class/cls12.pdf)|
+|**Module 07**| Mohr's circle <br> Stress invariants <br> Decomposition of stress tensor| [Lecture 9](https://drive.google.com/file/d/1yQ5eDPKkrA4oTARy7NUXIIHYSnU0bUdz/view) <br> [Lecture 10](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Class/cls11.pdf) &nbsp; [Class 12](Class/cls12.pdf) &nbsp; [Class 13](Class/cls13.pdf)|
 
 
 ## Tutorial Schedule
@@ -51,7 +51,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln.pdf) |
 | Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln.pdf) |
 | Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln.pdf) |
-| Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution] |
+| Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution](Tutorial/Tutorial_4_soln.pdf) |
 
 
 ## Table of Contents
