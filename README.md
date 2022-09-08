@@ -44,6 +44,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |**Module 07**| Mohr's circle <br> Stress invariants <br> Decomposition of stress tensor| [Lecture 9](https://drive.google.com/file/d/1yQ5eDPKkrA4oTARy7NUXIIHYSnU0bUdz/view) <br> [Lecture 10](https://drive.google.com/file/d/111PeRV-pjc-SOjQxd4Jp2q3gwKmhYltE/view) | [Class 11](Class/cls11.pdf) &nbsp; [Class 12](Class/cls12.pdf) &nbsp; [Class 13](Class/cls13.pdf)|
 |**Module 08**| Concept of Strain | [Lecture 11](https://drive.google.com/file/d/1RgNl7yBUVw9VO5yHe_dIvi0_4g-E-niy/view)| [Class 14](Class/cls14.pdf) |
 |**Module 09**| Longitudinal and Shear strains | [Lecture 12](https://drive.google.com/file/d/1Dk3vidEsoFca73hXpS7s3ruat795Zryg/view)| [Class 15](Class/cls15.pdf)|
+
 ## Tutorial Schedule
 
 |Topics|Tutorial Questions| Tutorial Solutions |
