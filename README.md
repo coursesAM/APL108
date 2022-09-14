@@ -110,7 +110,7 @@ Students are highly encouraged to attend all classes. They have to attend the cl
 
 
 ## Quiz
-Quiz 1 will take place in the first week of September (tentative syllabus will be everything upto principal stress and principal planes)
+Quiz 1 (syllabus will be everything upto principal stress and principal planes). DATE: 09/09/22
 
 
 ## Policy for Cheating 
