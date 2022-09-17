@@ -55,7 +55,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln.pdf) |
 | Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution](Tutorial/Tutorial_4_soln.pdf) |
 | Mohr's circle | [Tutorial 5](Tutorial/Tutorial_5.pdf) | [Solution] |
-| Strain | [Tutorial 6](Tutorial/Tutorial_6.pdf) | [Solution] |
+| Strain | [Tutorial 6](Tutorial/Tutorial_6.pdf) | [Solution](Tutorial/Tutorial_6_soln.pdf) |
 | Stress-Strain relation | [Tutorial 7] | [Solution]|
 
 ## Table of Contents
