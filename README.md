@@ -98,7 +98,7 @@ This course is not based on any particular textbook. However, the course materia
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
 |**Attendance**| 10 | |
-|**Quiz #1**| 10 | [Solution](Exams/Quiz1.pdf)|
+|**Quiz #1**| 10 | [Solution](Exam/Quiz1.pdf)|
 |**Minor**| 30 |  |
 |**Quiz #2**| 10 |  |
 |**Major**| 40 |  |
