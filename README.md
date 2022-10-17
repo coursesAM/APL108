@@ -60,7 +60,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Strain | [Tutorial 6](Tutorial/Tutorial_6.pdf) | [Solution](Tutorial/Tutorial_6_soln.pdf) |
 | Stress-Strain relation | [Tutorial 7](Tutorial/Tutorial_7.pdf) | [Solution](Tutorial/Tutorial_7_soln.pdf) |
 | Cylindrical coordinates | [Tutorial 8](Tutorial/Tutorial_8.pdf) | [Solution] |
-
+| Beam bending | [Tutorial 9](Tutorial/Tutorial_9.pdf) | [Solution] |
 
 ## Table of Contents
 - [Course Outline](#course-outline)
