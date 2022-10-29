@@ -23,7 +23,7 @@
 List of students in particular tutorial sessions can be accessed here: [Tutorial group list](https://docs.google.com/spreadsheets/d/1wjXqcVkSQeNQUneFRY9tIM5wFS53DPpB/edit?usp=sharing&ouid=117052463269187528720&rtpof=true&sd=true) <br><br>
 
 **Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: **Prof. Ajeet Kumar** (Wed 5-6pm) **Office** Block IV-340 and **Prof. Rajdip Nayek** (Thu 5-6pm) Office Block V-418D <br><br>
+**Office hours (Instructor)**: **Prof. Ajeet Kumar** (Wed 5-6pm) **Office** Block IV-340 and **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block V-418D <br><br>
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Engineering disciplines.
 
