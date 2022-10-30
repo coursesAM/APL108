@@ -65,7 +65,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Stress-Strain relation | [Tutorial 7](Tutorial/Tutorial_7.pdf) | [Solution](Tutorial/Tutorial_7_soln.pdf) |
 | Cylindrical coordinates | [Tutorial 8](Tutorial/Tutorial_8.pdf) | [Solution](Tutorial/Tutorial_8_soln.pdf) |
 | Symmetrical Beam bending | [Tutorial 9](Tutorial/Tutorial_9.pdf) | [Solution](Tutorial/Tutorial_9_soln.pdf) |
-| Unsymmetrical beam bending and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln.pdf) |
+| Bending and shear stresses and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln.pdf) |
 
 ## Table of Contents
 - [Course Outline](#course-outline)
