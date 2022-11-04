@@ -67,7 +67,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Cylindrical coordinates | [Tutorial 8](Tutorial/Tutorial_8.pdf) | [Solution](Tutorial/Tutorial_8_soln.pdf) |
 | Symmetrical Beam bending | [Tutorial 9](Tutorial/Tutorial_9.pdf) | [Solution](Tutorial/Tutorial_9_soln.pdf) |
 | Bending and shear stresses and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln.pdf) |
-| Beam Theory (EBT and TBT) | [Tutorial 11](Tutorial/Tutorial_11.pdf) | [Solution] |
+| Beam Theory (EBT and TBT) | [Tutorial 11](Tutorial/Tutorial_11.pdf) | [Solution](Tutorial/Tutorial_11_soln.pdf) |
 
 ## Table of Contents
 - [Course Outline](#course-outline)
