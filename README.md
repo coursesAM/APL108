@@ -110,7 +110,7 @@ This course is not based on any particular textbook. However, the course materia
 |**Attendance**| 10 | |
 |**Quiz #1**| 10 | [Solution](Exam/Quiz1.pdf)|
 |**Minor**| 30 | [Solution](Exam/Minor_Solution.pdf) |
-|**Quiz #2**| 10 |  |
+|**Quiz #2**| 10 | [Solution](Exam/Quiz2.pdf) |
 |**Major**| 40 |  |
 |**Total** |100| |
 
