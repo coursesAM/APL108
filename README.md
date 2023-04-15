@@ -57,18 +57,18 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln.pdf) |
-| Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln.pdf) |
-| Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln.pdf) |
-| Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution](Tutorial/Tutorial_4_soln.pdf) |
-| Mohr's circle | [Tutorial 5](Tutorial/Tutorial_5.pdf) | [Solution](Tutorial/Tutorial_5_soln.pdf) |
-| Strain | [Tutorial 6](Tutorial/Tutorial_6.pdf) | [Solution](Tutorial/Tutorial_6_soln.pdf) |
-| Stress-Strain relation | [Tutorial 7](Tutorial/Tutorial_7.pdf) | [Solution](Tutorial/Tutorial_7_soln.pdf) |
-| Cylindrical coordinates | [Tutorial 8](Tutorial/Tutorial_8.pdf) | [Solution](Tutorial/Tutorial_8_soln.pdf) |
-| Symmetrical Beam bending | [Tutorial 9](Tutorial/Tutorial_9.pdf) | [Solution](Tutorial/Tutorial_9_soln.pdf) |
-| Bending and shear stresses and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln.pdf) |
-| Beam Theory (EBT and TBT) | [Tutorial 11](Tutorial/Tutorial_11.pdf) | [Solution](Tutorial/Tutorial_11_soln.pdf) |
-| Energy methods | [Tutorial 12](Tutorial/Tutorial_12.pdf) | [Solution](Tutorial/Tutorial_12_soln.pdf) |
+| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
+| Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln_.pdf) |
+| Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln_.pdf) |
+| Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution](Tutorial/Tutorial_4_soln_.pdf) |
+| Mohr's circle | [Tutorial 5](Tutorial/Tutorial_5.pdf) | [Solution](Tutorial/Tutorial_5_soln_.pdf) |
+| Strain | [Tutorial 6](Tutorial/Tutorial_6.pdf) | [Solution](Tutorial/Tutorial_6_soln_.pdf) |
+| Stress-Strain relation | [Tutorial 7](Tutorial/Tutorial_7.pdf) | [Solution](Tutorial/Tutorial_7_soln_.pdf) |
+| Cylindrical coordinates | [Tutorial 8](Tutorial/Tutorial_8.pdf) | [Solution](Tutorial/Tutorial_8_soln_.pdf) |
+| Symmetrical Beam bending | [Tutorial 9](Tutorial/Tutorial_9.pdf) | [Solution](Tutorial/Tutorial_9_soln_.pdf) |
+| Bending and shear stresses and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln_.pdf) |
+| Beam Theory (EBT and TBT) | [Tutorial 11](Tutorial/Tutorial_11.pdf) | [Solution](Tutorial/Tutorial_11_soln_.pdf) |
+| Energy methods | [Tutorial 12](Tutorial/Tutorial_12.pdf) | [Solution](Tutorial/Tutorial_12_soln_.pdf) |
 
 
 ## Table of Contents
@@ -110,10 +110,10 @@ This course is not based on any particular textbook. However, the course materia
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
 |**Attendance**| 10 | |
-|**Quiz #1**| 10 | [Solution](Exam/Quiz1.pdf)|
-|**Minor**| 30 | [Solution](Exam/Minor_Solution.pdf) |
-|**Quiz #2**| 10 | [Solution](Exam/Quiz2.pdf) |
-|**Major**| 40 | [Solution](Exam/Major.pdf) |
+|**Quiz #1**| 10 | [Solution](Exam/Quiz1_.pdf)|
+|**Minor**| 30 | [Solution](Exam/Minor_Solution_.pdf) |
+|**Quiz #2**| 10 | [Solution](Exam/Quiz2_.pdf) |
+|**Major**| 40 | [Solution](Exam/Major_.pdf) |
 |**Total** |100| |
 
 ## Course Attendance
