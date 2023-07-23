@@ -112,9 +112,9 @@ Other references
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
-|**Quiz #1**| 10 | |
+|**Quiz #1**| 15 | |
 |**Minor**| 30 | |
-|**Quiz #2**| 10 | |
+|**Quiz #2**| 15 | |
 |**Major**| 40 | |
 |**Total** |100| |
 
