@@ -27,7 +27,7 @@ A list of students in particular tutorial sessions can be accessed here:  <br><b
 
 |Module|Topics| Handwritten Classroom Notes|
 |:----------|:-----------:|:-------------:|:-----------------------------:|
-|**Module 01**| Review of Engineering Mechanics | |
+|**Module 01**| Review of Engineering Mechanics | Pdf |
 
 <!-- 
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
@@ -46,7 +46,6 @@ A list of students in particular tutorial sessions can be accessed here:  <br><b
 |**Module 12**| Euler-Bernoulli beam theory <br> Timoshenko beam theory | [Lecture 27](https://drive.google.com/file/d/1evVSQBR5tclrIWelFJdBrmLkXdfDmvfV/view) <br> [Lecture 28](https://drive.google.com/file/d/1sv5pjm5Eg6-Im3yYAmGrZCklRhkO8z8U/view) | [Class 31](Class/cls31.pdf) &nbsp; [Class 32](Class/cls32.pdf) |
 |**Module 13**| Energy Methods | [Lecture 29](https://drive.google.com/file/d/1BceuMNg79eO8GKu_BLegPpNejBnG4vLp/view) <br> [Lecture 30](https://drive.google.com/file/d/1N88MMLrOTsjq3irx2p__aKuvO6QHKoW6/view)  | [Class 33](Class/cls33.pdf) &nbsp; [Class 34](Class/cls34.pdf) <br> [Class 35](Class/cls35.pdf) &nbsp; [Class 36](Class/cls36.pdf) |
 |**Module 14**| Failure Theories | [Lecture 31](https://drive.google.com/file/d/1pInEcE0W8rZunyEwnKFoOgwx4ZFDIIKN/view) <br> [Lecture 32](https://drive.google.com/file/d/1TBs6AIq7sRB5Bp2zaFpDrVzlB5yG8Otj/view)  | [Class 37](Class/cls37.pdf) &nbsp; [Class 38](Class/cls38.pdf) |
-
 -->
 
 
@@ -54,6 +53,7 @@ A list of students in particular tutorial sessions can be accessed here:  <br><b
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
+
 <!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
 | Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln_.pdf) |
