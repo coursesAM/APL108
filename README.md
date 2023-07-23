@@ -87,23 +87,23 @@ This is the first course where the deformation of solid bodies and the underlyin
 - Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
 - State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
 - Stress invariants; Octahedral Plane; Decomposition of stress tensor; Concept of strain and strain tensor
-- Longitudinal, shear and volumetric strains; Local infinitesimal rotation; Strain compatibility condition
+- Longitudinal, shear, and volumetric strains; Local infinitesimal rotation; Strain compatibility condition
 - Linear stress-strain relation for isotropic bodies; Relation between material constants
-- Stress and strain matrices in cylindrical coordinate system; Equations of equilibrium in cylindrical coordinate system
+- Stress and strain matrices in the cylindrical coordinate system; Equations of equilibrium in the cylindrical coordinate system
 - Axisymmetric deformations: combined extension-torsion-inflation of a cylinder
-- Bending of beams having symmetrical and non-symmetrical cross-section
-- Shear center, Shear flow in thin and open cross-section beams; Euler Bernouli and Timoshenko beam theories; beam buckling
-- Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using energy method
+- Bending of beams having the symmetrical and non-symmetrical cross-section
+- Shear center, Shear flow in thin and open cross-section beams; Euler Bernoulli and Timoshenko beam theories; beam buckling
+- Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using the energy method
 - Various theories of failure and their application
 
 ## Course References
 This course is based on three textbooks:
 *  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
+*  Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014
 *  Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
 
 Other references
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
-* Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
 * Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
 * Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
 
@@ -113,20 +113,16 @@ Other references
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
 |**Attendance**| 10 | |
-|**Quiz #1**| 10 | [Solution](Exam/Quiz1_.pdf)|
-|**Minor**| 30 | [Solution](Exam/Minor_Solution_.pdf) |
-|**Quiz #2**| 10 | [Solution](Exam/Quiz2_.pdf) |
-|**Major**| 40 | [Solution](Exam/Major_.pdf) |
+|**Quiz #1**| 10 | |
+|**Minor**| 30 | |
+|**Quiz #2**| 10 | |
+|**Major**| 40 | |
 |**Total** |100| |
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes and tutorials to receive 10 point attendance scores. Class attendance will be taken **via Timble**. Please mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with email subject specifying the subject code APL 104. <br>
+Students are highly encouraged to attend all classes. They have to attend the classes and tutorials to receive 10-point attendance scores. Class attendance will be taken **via Timble**. Please mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with an email subject specifying the subject code APL 104. <br>
 
 **A minimum of 80% attendance is required for passing the course.**
-
-
-## Quiz
-Quiz 1 (syllabus will be everything upto principal stress and principal planes). DATE: 09/09/22
 
 
 ## Policy for Cheating 
