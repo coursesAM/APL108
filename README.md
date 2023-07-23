@@ -112,7 +112,6 @@ Other references
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
-|**Attendance**| 10 | |
 |**Quiz #1**| 10 | |
 |**Minor**| 30 | |
 |**Quiz #2**| 10 | |
@@ -120,7 +119,7 @@ Other references
 |**Total** |100| |
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes and tutorials to receive 10-point attendance scores. Class attendance will be taken **via Timble**. Please mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with an email subject specifying the subject code APL 104. <br>
+Students are highly encouraged to attend all classes. If any student has less than 80% class-plus-tutorial attendance Class attendance will be taken **via Timble**. Please mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with an email subject specifying the subject code APL 104. <br>
 
 **A minimum of 80% attendance is required for passing the course.**
 
