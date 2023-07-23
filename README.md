@@ -26,7 +26,7 @@ A list of students in particular tutorial sessions can be accessed here:  <br><b
 ## Lecture Schedule
 
 |Module|Topics| Handwritten Classroom Notes|
-|:----------|:-----------:|:-------------:|:-----------------------------:|
+|:----------|:-----------:|:-------------:|
 |**Module 01**| Review of Engineering Mechanics | Pdf |
 
 <!-- 
