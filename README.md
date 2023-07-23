@@ -1,4 +1,4 @@
-# APL 104: Solid Mechanics (Fall semester 2022)
+# APL 104: Solid Mechanics (Fall semester 2023)
 
 ![image](https://user-images.githubusercontent.com/109568856/179663482-8b6b6fb0-1ed7-494c-9b82-5f720bb4d614.png)
 
@@ -7,34 +7,31 @@
 
 **Credit:** 4 units (3-1-0) <br> <br>
 
-**Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
+**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
-**TA 1:** Intaf Alam (amz198096@am.iitd.ac.in) <br> 
-**TA 2:** Roushan Kumar (amz208472@am.iitd.ac.in) <br>
-**TA 3:** Vinayak (amz218561@am.iitd.ac.in) <br><br>
+**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at Block VI 301 <br><br>
 
-**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC108 <br><br>
+**Tutorial Session 1:** Wed (2:00 to 3:00 PM) at LHC 313.3 <br> 
+**Tutorial Session 2:** Fri (2:00 to 3:00 PM) at LHC 313.3 <br> 
 
-**Tutorial Session A:** Tue (2:00 to 3:00 PM) at LHC 606 <br> 
-**Tutorial Session B:** Wed (2:00 to 3:00 PM) at LHC 606 <br> 
-**Tutorial Session C:** Thu (2:00 to 3:00 PM) at LHC 606 <br> 
-**Tutorial Session D:** Fri (2:00 to 3:00 PM) at LHC 606 <br> <br>
-
-List of students in particular tutorial sessions can be accessed here: [Tutorial group list](https://docs.google.com/spreadsheets/d/1wjXqcVkSQeNQUneFRY9tIM5wFS53DPpB/edit?usp=sharing&ouid=117052463269187528720&rtpof=true&sd=true) <br><br>
+A list of students in particular tutorial sessions can be accessed here:  <br><br>
 
 **Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: **Prof. Ajeet Kumar** (Wed 5-6pm) **Office** Block IV-340 and **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block V-418D <br><br>
 
-**Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Engineering disciplines.
+**Intended audience:** BTech students in Applied Mechanics and Materials
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
 
 ## Lecture Schedule
 
-|Module|Topics|Lecture Notes| Handwritten Classroom Notes|
+|Module|Topics| Handwritten Classroom Notes|
 |:----------|:-----------:|:-------------:|:-----------------------------:|
-|**Module 00**| Mathematical Preliminaries | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
+|**Module 01**| Review of Engineering Mechanics | |
+
+<!-- 
+|**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
+
 |**Module 01**| Traction vector | [Lecture 2](https://drive.google.com/file/d/14RzFRCP_V56JR2eFWLgF0cbMLH71379X/view)| [Class 4](Class/cls4.pdf) &nbsp; [Class 5](Class/cls5.pdf) |
 |**Module 02**| Stress Tensor and its representation | [Lecture 3](https://drive.google.com/file/d/1V0RBcZnZ4d2PeDwhFvueK1CBuF6C7O2H/view)| [Class 6](Class/cls6.pdf) |
 |**Module 03**| Transformation of Stress matrix | [Lecture 4](https://drive.google.com/file/d/1xbHNqTUpShEuxyCFRF7BWrJhfOLfzn61/view)| [Class 6](Class/cls6.pdf) |
@@ -50,13 +47,14 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 |**Module 13**| Energy Methods | [Lecture 29](https://drive.google.com/file/d/1BceuMNg79eO8GKu_BLegPpNejBnG4vLp/view) <br> [Lecture 30](https://drive.google.com/file/d/1N88MMLrOTsjq3irx2p__aKuvO6QHKoW6/view)  | [Class 33](Class/cls33.pdf) &nbsp; [Class 34](Class/cls34.pdf) <br> [Class 35](Class/cls35.pdf) &nbsp; [Class 36](Class/cls36.pdf) |
 |**Module 14**| Failure Theories | [Lecture 31](https://drive.google.com/file/d/1pInEcE0W8rZunyEwnKFoOgwx4ZFDIIKN/view) <br> [Lecture 32](https://drive.google.com/file/d/1TBs6AIq7sRB5Bp2zaFpDrVzlB5yG8Otj/view)  | [Class 37](Class/cls37.pdf) &nbsp; [Class 38](Class/cls38.pdf) |
 
-
+-->
 
 
 ## Tutorial Schedule
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
+<!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
 | Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln_.pdf) |
 | Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln_.pdf) |
@@ -69,6 +67,7 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 | Bending and shear stresses and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln_.pdf) |
 | Beam Theory (EBT and TBT) | [Tutorial 11](Tutorial/Tutorial_11.pdf) | [Solution](Tutorial/Tutorial_11_soln_.pdf) |
 | Energy methods | [Tutorial 12](Tutorial/Tutorial_12.pdf) | [Solution](Tutorial/Tutorial_12_soln_.pdf) |
+-->
 
 
 ## Table of Contents
@@ -81,10 +80,10 @@ List of students in particular tutorial sessions can be accessed here: [Tutorial
 - [Policy for Cheating](#policy-for-cheating)
 
 ## Course Outline
-This is the first course where deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study extension, torsion and bending of beams. The one-dimensional theory of beams are also introduced. Various theories of failure that are critical for design of machine elements in industry will also be discussed.
+This is the first course where the deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building a foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study the extension, torsion, and bending of beams. The one-dimensional theory of beams is also introduced. Various theories of failure that are critical for the design of machine elements in the industry will also be discussed.
 
 ## Course Layout
-- Mathematical preliminaries and notation; Concept of Traction vector; Concept of Stress tensor
+- Fundamental Principles of Mechanics; Introduction of mechanics of deformable bodies
 - Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
 - State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
 - Stress invariants; Octahedral Plane; Decomposition of stress tensor; Concept of strain and strain tensor
@@ -98,7 +97,11 @@ This is the first course where deformation of solid bodies and the underlying co
 - Various theories of failure and their application
 
 ## Course References
-This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
+This course is based on three textbooks:
+*  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
+*  Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
+
+Other references
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
 * Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
 * Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
