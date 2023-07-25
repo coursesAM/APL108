@@ -11,7 +11,7 @@
 
 **Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at Block VI 301 <br><br>
 
-**Tutorial Session 1:** Wed (2:00 to 3:00 PM) at LHC 313.3 <br> 
+**Tutorial Session 1:** Tue (2:00 to 3:00 PM) at LHC 313.3 <br> 
 **Tutorial Session 2:** Fri (2:00 to 3:00 PM) at LHC 313.3 <br> 
 
 A list of students in particular tutorial sessions can be accessed here:  TBA <br><br>
