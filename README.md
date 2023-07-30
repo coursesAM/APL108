@@ -53,7 +53,7 @@ A list of students in particular tutorial sessions can be accessed here:  TBA <b
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Study of forces | [Tutorial 1](Tutorial/APL104_F23_Tutorial_1.pdf)  |  |
+| Study of forces | [Tutorial 1](Tutorials/APL104_F23_Tutorial_1.pdf)  |  |
 
 <!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
