@@ -26,8 +26,8 @@ A list of students in particular tutorial sessions can be accessed here:  TBA <b
 ## Lecture Schedule
 
 |Module|Topics| Handwritten Lecture Notes|
-|:----------|:-----------:|:-------------:|
-|**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) |
+|:----------|:-----------:|:---------------------------:|
+|**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) |
 
 <!-- 
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
