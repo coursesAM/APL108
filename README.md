@@ -28,7 +28,7 @@ A list of students in particular tutorial sessions can be accessed here:  TBA <b
 |Module|Topics| Handwritten Lecture Notes|
 |:----------|:-----------:|:---------------------------:|
 |**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) |
-|**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) |
+|**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) |
 
 <!-- 
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
@@ -55,6 +55,7 @@ A list of students in particular tutorial sessions can be accessed here:  TBA <b
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
 | Study of forces | [Tutorial 1](Tutorials/APL104_F23_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
+| Compatibility equations | [Tutorial 2](Tutorials/APL104_F23_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
 
 <!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
