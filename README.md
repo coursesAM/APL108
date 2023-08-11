@@ -14,7 +14,7 @@
 **Tutorial Session 1:** Tue (2:00 to 3:00 PM) at LHC 313.3 <br> 
 **Tutorial Session 2:** Fri (2:00 to 3:00 PM) at LHC 313.3 <br> 
 
-A list of students in particular tutorial sessions can be accessed here:  TBA <br><br>
+A list of students in particular tutorial sessions can be accessed here:  [Excel sheet here](https://docs.google.com/spreadsheets/d/1Geup1DIXZf9uO-LMt6SFfVcT2cq5M0fT/edit#gid=1177399594) <br><br>
 
 **Office hours (TA)**: By email appointment <br> 
 
