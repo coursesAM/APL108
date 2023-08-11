@@ -17,7 +17,7 @@
 A list of students in particular tutorial sessions can be accessed here:  [Excel sheet here](https://docs.google.com/spreadsheets/d/1Geup1DIXZf9uO-LMt6SFfVcT2cq5M0fT/edit#gid=1177399594) <br><br>
 
 **Office hours (TA)**: By email appointment <br> 
-
+ 
 **Intended audience:** BTech students in Applied Mechanics and Materials
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
