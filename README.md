@@ -121,7 +121,7 @@ Other references
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
-|**Quiz #1**| 15 | [Quiz1 solution](Exams/Quiz1sol.pdf) |
+|**Quiz #1**| 15 | [Solution](Exams/Quiz1sol.pdf) |
 |**Minor**| 30 | |
 |**Quiz #2**| 15 | |
 |**Major**| 40 | |
