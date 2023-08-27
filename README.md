@@ -16,7 +16,7 @@
 
 A list of students in particular tutorial sessions can be accessed here:  [Excel sheet](https://docs.google.com/spreadsheets/d/1Geup1DIXZf9uO-LMt6SFfVcT2cq5M0fT/edit#gid=1177399594) <br><br>
 
-**Office hours (TA)**: By email appointment <br> 
+**Office hours (TA)**: Wed 4:00-5:00 pm (in Block 4 Room B-24) <br> 
  
 **Intended audience:** BTech students in Applied Mechanics and Materials
 
