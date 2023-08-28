@@ -61,6 +61,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 | Compatibility equations | [Tutorial 2](Tutorials/APL104_F23_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
 | Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F23_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
+| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 
 
 <!-- 
