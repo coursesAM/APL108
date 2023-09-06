@@ -32,7 +32,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 |**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) |
 |**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) |
 |**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)|
-|**Module 06**| Concept of Strain <br> |  [Normal and Shear Strain](Lectures/Lecture13.pdf)|
+|**Module 06**| Concept of Strain <br> |  [Normal and Shear Strain](Lectures/Lecture13.pdf) <br> [Strain-displacement relation](Lectures/Lecture14.pdf)|
 
 
 <!-- 
