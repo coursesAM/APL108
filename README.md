@@ -33,7 +33,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 |**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) |
 |**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)|
 |**Module 06**| Concept of Strain  | [Normal and Shear Strain](Lectures/Lecture13.pdf) <br> [Strain-displacement relation](Lectures/Lecture14.pdf) <br> [Strain compatibility](Lectures/Lecture15.pdf) <br> [Similarity of properties of stress and strain tensors](Lectures/Lecture16.pdf)|
-|**Module 07**| Stress-strain relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material](Lectures/Lecture18.pdf)|
+|**Module 07**| Stress-strain-temperature relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material and thermal strain](Lectures/Lecture18.pdf)|
 
 
 
