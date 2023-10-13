@@ -68,6 +68,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
 | Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
+| Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
 
 
 <!-- 
