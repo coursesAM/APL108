@@ -26,7 +26,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 ## Lecture Schedule
 
 |Module|Topics| Handwritten Lecture Notes|
-|:----------|:-----------:|:---------------------------:|
+|:------------|:-------------:|:-----------------------------:|
 |**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) |
 |**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) |
 |**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) |
@@ -36,7 +36,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 |**Module 07**| Stress-strain-temperature relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material and thermal strain](Lectures/Lecture18.pdf)|
 |**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) |
 |**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22.pdf)|
-|**Module 09**| Bending of beams | [Pure bending](Lectures/Lecture23.pdf) |
+|**Module 10**| Bending of beams | [Pure bending](Lectures/Lecture23.pdf) |
 
 
 <!-- 
