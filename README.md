@@ -134,7 +134,7 @@ Other references
 |:---|:-----|:------ |
 |**Quiz #1**| 15 | [Solution](Exams/Quiz1sol.pdf) |
 |**Minor**| 30 | [Solution](Exams/MinorSol.pdf) ||
-|**Quiz #2**| 15 | |
+|**Quiz #2**| 15 | [Solution](Exams/Quiz2sol.pdf) |
 |**Major**| 40 | |
 |**Total** |100| |
 
