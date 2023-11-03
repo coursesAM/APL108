@@ -72,7 +72,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 | Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
 | Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
-
+| Non-Uniform beam bending | [Tutorial 10](Tutorials/APL104_F23_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
 
 <!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
