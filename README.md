@@ -37,6 +37,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 |**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) |
 |**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22.pdf)|
 |**Module 10**| Bending of beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending](Lectures/Lecture24.pdf) <br> [Uniform bending of unsymmentrical beams](Lectures/Lecture25.pdf) <br> [Non-uniform bending and Shear flow](Lectures/Lecture26.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | 
+|**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) | 
 
 
 <!-- 
