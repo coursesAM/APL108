@@ -26,7 +26,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 ## Lecture Schedule
 
 |Module|Topics| Handwritten Lecture Notes|
-|:------------|:-------------:|:-----------------------------:|
+|:--------------|:-------------:|:-----------------------------:|
 |**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) |
 |**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) |
 |**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) |
