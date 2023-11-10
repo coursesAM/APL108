@@ -74,6 +74,8 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 | Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
 | Non-Uniform beam bending | [Tutorial 10](Tutorials/APL104_F23_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
+| Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 11](Tutorials/APL104_F23_Tutorial_11.pdf) | [Solution](Tutorials/Tutorial11sol.pdf) |
+
 
 <!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
