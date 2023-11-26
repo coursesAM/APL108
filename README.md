@@ -138,7 +138,7 @@ Other references
 |**Quiz #1**| 15 | [Solution](Exams/Quiz1sol.pdf) |
 |**Minor**| 30 | [Solution](Exams/MinorSol.pdf) ||
 |**Quiz #2**| 15 | [Solution](Exams/Quiz2sol.pdf) |
-|**Major**| 40 | |
+|**Major**| 40 |  [Solution](Exams/MajorSol.pdf)|
 |**Total** |100| |
 
 ## Course Attendance
