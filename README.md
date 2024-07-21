@@ -1,4 +1,4 @@
-# APL 104: Solid Mechanics (Fall semester 2023)
+# APL 104: Solid Mechanics (Fall semester 2024)
 
 ![image](https://user-images.githubusercontent.com/109568856/179663482-8b6b6fb0-1ed7-494c-9b82-5f720bb4d614.png)
 
@@ -11,14 +11,13 @@
 
 **Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at Block VI 301 <br><br>
 
-**Tutorial Session 1:** Tue (2:00 to 3:00 PM) at LHC 313.3 <br> 
-**Tutorial Session 2:** Fri (2:00 to 3:00 PM) at LHC 313.3 <br> 
+**Tutorial Session 1:** Tue (2:00 to 3:00 PM),  Location (TBD) <br> 
 
-A list of students in particular tutorial sessions can be accessed here:  [Excel sheet](https://docs.google.com/spreadsheets/d/1Geup1DIXZf9uO-LMt6SFfVcT2cq5M0fT/edit#gid=1177399594) <br><br>
+An attendance list of students in  tutorial sessions would be made accessible soon. <br> 
 
 **Office hours (TA)**: Wed 4:00-5:00 pm (in Block 4 Room B-24) <br> 
  
-**Intended audience:** BTech students in Applied Mechanics and Materials
+**Intended audience:** BTech students in Applied Mechanics and Material Science
 
 **NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
 
@@ -38,7 +37,7 @@ A list of students in particular tutorial sessions can be accessed here:  [Excel
 |**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22.pdf)|
 |**Module 10**| Bending of beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending](Lectures/Lecture24.pdf) <br> [Uniform bending of unsymmentrical beams](Lectures/Lecture25.pdf) <br> [Non-uniform bending and Shear flow](Lectures/Lecture26.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | 
 |**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's theorem](Lectures/Lecture29a.pdf)| 
-
+|**Module 12**| Failure Theories |  |
 
 <!-- 
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
@@ -122,6 +121,7 @@ This is the first course where the deformation of solid bodies and the underlyin
 ## Course References
 This course is based on three textbooks:
 *  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
+*  Kumar, Ajeet, *"Solid Mechanics for Undergraduates - Using Vectors and Tensors"*, White Falcon Publishing, 2024.
 *  Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014
 *  Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
 
@@ -135,14 +135,14 @@ Other references
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
-|**Quiz #1**| 15 | [Solution](Exams/Quiz1sol.pdf) |
-|**Minor**| 30 | [Solution](Exams/MinorSol.pdf) ||
-|**Quiz #2**| 15 | [Solution](Exams/Quiz2sol.pdf) |
-|**Major**| 40 |  [Solution](Exams/MajorSol.pdf)|
+|**Quiz #1**| 15 |  |
+|**Minor**| 30 |  |
+|**Quiz #2**| 15 |  |
+|**Major**| 40 | |
 |**Total** |100| |
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. If any student has less than 80% class-plus-tutorial attendance, he/she will get one grade less than would have been awarded. Class attendance will be taken **via Timble**. Please mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with an email subject specifying the subject code APL 104. <br>
+Students are highly encouraged to attend all classes. **Students who have failed this course have been found to have attended less than 60% of the total classes**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
 
 
 ## Policy for Cheating 
