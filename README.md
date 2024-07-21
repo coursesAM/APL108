@@ -142,7 +142,7 @@ Other references
 |**Total** |100| |
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. **Students who have failed this course have been found to have attended less than 60% of the total classes**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
+Students are highly encouraged to attend all classes. **Students who have failed this course were found to have attended less than 60% of the total classes on an average**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
 
 
 ## Policy for Cheating 
