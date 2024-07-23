@@ -9,7 +9,7 @@
 
 **Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
-**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC 310 <br><br>
+**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC 308 <br><br>
 
 **Tutorial Session 1:** Tue (2:00 to 3:00 PM),  Location (TBD) <br> 
 
