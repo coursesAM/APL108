@@ -64,9 +64,9 @@ An attendance list of students in  tutorial sessions would be made accessible so
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Study of forces | [Tutorial 1](Tutorials/APL104_F23_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
-| Compatibility equations | [Tutorial 2](Tutorials/APL104_F23_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
-| Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F23_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
+| Study of forces | [Tutorial 1](Tutorials/APL104_F24_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
+| Compatibility equations | [Tutorial 2](Tutorials/APL104_F24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
+--> | Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F23_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
 | Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
@@ -75,7 +75,7 @@ An attendance list of students in  tutorial sessions would be made accessible so
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
 | Non-Uniform beam bending | [Tutorial 10](Tutorials/APL104_F23_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
 | Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 11](Tutorials/APL104_F23_Tutorial_11.pdf) | [Solution](Tutorials/Tutorial11sol.pdf) |
-
+-->
 
 <!-- 
 | Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
