@@ -64,17 +64,17 @@ An attendance list of students in  tutorial sessions would be made accessible so
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Study of forces | [Tutorial 1](Tutorials/APL104_F23_Tutorial_1.pdf) | [Solution](Tutorials/aTutorial1sol.pdf) |
-| Compatibility equations | [Tutorial 2](Tutorials/APL104_F23_Tutorial_2.pdf) | [Solution](Tutorials/aTutorial2sol.pdf) |
-| Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F23_Tutorial_3.pdf) | [Solution](Tutorials/aTutorial3sol.pdf) |
-| Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/aTutorial4sol.pdf) |
-| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/aTutorial5sol.pdf) |
-| Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/aTutorial6sol.pdf) |
-| Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/aTutorial7sol.pdf) |
-| Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/aTutorial8sol.pdf) |
-| Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/aTutorial9sol.pdf) |
-| Non-Uniform beam bending | [Tutorial 10](Tutorials/APL104_F23_Tutorial_10.pdf) | [Solution](Tutorials/aTutorial10sol.pdf) |
-| Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 11](Tutorials/APL104_F23_Tutorial_11.pdf) | [Solution](Tutorials/aTutorial11sol.pdf) |
+| Study of forces | [Tutorial 1](Tutorials/APL104_F23_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
+| Compatibility equations | [Tutorial 2](Tutorials/APL104_F23_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
+| Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F23_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
+| Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
+| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
+| Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
+| Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
+| Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
+| Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
+| Non-Uniform beam bending | [Tutorial 10](Tutorials/APL104_F23_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
+| Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 11](Tutorials/APL104_F23_Tutorial_11.pdf) | [Solution](Tutorials/Tutorial11sol.pdf) |
 
 
 <!-- 
