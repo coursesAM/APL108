@@ -11,7 +11,7 @@
 
 **Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC 308 <br><br>
 
-**Tutorial Session:** Tue (2:00 to 3:00 PM),  Location (TBD) <br> 
+**Tutorial Session:** Tue (2:00 to 3:00 PM),  Block II LT 1 <br> 
 
 An attendance list of students in  tutorial sessions would be made accessible soon. <br> 
 
