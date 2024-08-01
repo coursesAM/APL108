@@ -13,7 +13,7 @@
 
 **Tutorial Session:** Wed (2:00 to 3:00 PM),  Block II LT 1 <br><br> 
 
-An attendance list of students in  tutorial sessions would be made accessible soon. <br> 
+An attendance list of students in  tutorial sessions can be found [here](https://docs.google.com/spreadsheets/d/1lqz1ZZ1twslXaL6lDjlNlxn4mmR53GI0De8FQfE78lM/edit?usp=sharing). <br> 
 
 **Office hours (TA)**: Wed 4:00-5:00 pm (in Block 4 Room B-24) <br> 
  
