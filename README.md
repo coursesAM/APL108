@@ -24,12 +24,12 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 
 ## Lecture Schedule
 
-|Module|Topics| Handwritten Lecture Notes|
-|:----------------|:-------------:|:-----------------------------:|
-|**Module 00**| Why learn Solid Mechanics | [Introduction](Lectures/Lecture0.pdf) |
-|**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) |
-|**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) |
-|**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) |
+|Module|Topics| Lecture Notes| In-class notes |
+|:----------------|:-------------:|:-----------------------------:|:----------------:|
+|**Module 00**| Why learn Solid Mechanics | [Introduction](Lectures/Lecture0.pdf) | |
+|**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | |
+|**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) | [Mod1-2](Lectures/Note1.pdf)|
+|**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) | 
 |**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) |
 |**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)|
 |**Module 06**| Concept of Strain  | [Normal and Shear Strain](Lectures/Lecture13.pdf) <br> [Strain-displacement relation](Lectures/Lecture14.pdf) <br> [Strain compatibility](Lectures/Lecture15.pdf) <br> [Similarity of properties of stress and strain tensors](Lectures/Lecture16.pdf)|
