@@ -30,21 +30,17 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 |**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | |
 |**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) | [Mod1-2](Lectures/Note1.pdf)|
 |**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) | [Mod3](Lectures/Note2.pdf)|
-
 |**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) |
-|**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)|
-
-<!-- 
+|**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)| 
 |**Module 06**| Concept of Strain  | [Normal and Shear Strain](Lectures/Lecture13.pdf) <br> [Strain-displacement relation](Lectures/Lecture14.pdf) <br> [Strain compatibility](Lectures/Lecture15.pdf) <br> [Similarity of properties of stress and strain tensors](Lectures/Lecture16.pdf)|
 |**Module 07**| Stress-strain-temperature relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material and thermal strain](Lectures/Lecture18.pdf)|
 |**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) |
 |**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22.pdf)|
-
 |**Module 10**| Bending of beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending](Lectures/Lecture24.pdf) <br> [Uniform bending of unsymmentrical beams](Lectures/Lecture25.pdf) <br> [Non-uniform bending and Shear flow](Lectures/Lecture26.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | 
 |**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's theorem](Lectures/Lecture29a.pdf)| 
 |**Module 12**| Failure Theories |  |
 
-
+<!--
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
 
 |**Module 01**| Traction vector | [Lecture 2](https://drive.google.com/file/d/14RzFRCP_V56JR2eFWLgF0cbMLH71379X/view)| [Class 4](Class/cls4.pdf) &nbsp; [Class 5](Class/cls5.pdf) |
