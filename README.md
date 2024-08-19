@@ -72,6 +72,87 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 
 <!--
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
+| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/ Tutorial5sol.pdf) |
+| Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/ Tutorial6sol.pdf) |
+| Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/ Tutorial7sol.pdf) |
+| Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/ Tutorial8sol.pdf) |
+| Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/ Tutorial9sol.pdf) |
+| Non-Uniform beam bending | [Tutorial 10](Tutorials/APL104_F23_Tutorial_10.pdf) | [Solution](Tutorials/ Tutorial10sol.pdf) |
+| Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 11](Tutorials/APL104_F23_Tutorial_11.pdf) | [Solution](Tutorials/ Tutorial11sol.pdf) |
+
+
+<!-- 
+| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | [Solution](Tutorial/Tutorial_1_soln_.pdf) |
+| Traction vector | [Tutorial 2](Tutorial/Tutorial_2.pdf) | [Solution](Tutorial/Tutorial_2_soln_.pdf) |
+| Stress tensor and its transformation | [Tutorial 3](Tutorial/Tutorial_3.pdf) | [Solution](Tutorial/Tutorial_3_soln_.pdf) |
+| Stress equilibrium and principal stresses | [Tutorial 4](Tutorial/Tutorial_4.pdf) | [Solution](Tutorial/Tutorial_4_soln_.pdf) |
+| Mohr's circle | [Tutorial 5](Tutorial/Tutorial_5.pdf) | [Solution](Tutorial/Tutorial_5_soln_.pdf) |
+| Strain | [Tutorial 6](Tutorial/Tutorial_6.pdf) | [Solution](Tutorial/Tutorial_6_soln_.pdf) |
+| Stress-Strain relation | [Tutorial 7](Tutorial/Tutorial_7.pdf) | [Solution](Tutorial/Tutorial_7_soln_.pdf) |
+| Cylindrical coordinates | [Tutorial 8](Tutorial/Tutorial_8.pdf) | [Solution](Tutorial/Tutorial_8_soln_.pdf) |
+| Symmetrical Beam bending | [Tutorial 9](Tutorial/Tutorial_9.pdf) | [Solution](Tutorial/Tutorial_9_soln_.pdf) |
+| Bending and shear stresses and shear center | [Tutorial 10](Tutorial/Tutorial_10.pdf) | [Solution](Tutorial/Tutorial_10_soln_.pdf) |
+| Beam Theory (EBT and TBT) | [Tutorial 11](Tutorial/Tutorial_11.pdf) | [Solution](Tutorial/Tutorial_11_soln_.pdf) |
+| Energy methods | [Tutorial 12](Tutorial/Tutorial_12.pdf) | [Solution](Tutorial/Tutorial_12_soln_.pdf) |
+-->
+
+
+## Table of Contents
+- [Course Outline](#course-outline)
+- [Course Layout](#course-layout)
+- [Course References](#course-references)
+- [Grading](#grading)
+- [Course Attendance](#course-attendance)
+- [Quiz](#quiz)
+- [Policy for Cheating](#policy-for-cheating)
+
+## Course Outline
+This is the first course where the deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building a foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study the extension, torsion, and bending of beams. The one-dimensional theory of beams is also introduced. Various theories of failure that are critical for the design of machine elements in the industry will also be discussed.
+
+## Course Layout
+- Fundamental Principles of Mechanics; Introduction of mechanics of deformable bodies
+- Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
+- State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
+- Stress invariants; Octahedral Plane; Decomposition of stress tensor; Concept of strain and strain tensor
+- Longitudinal, shear, and volumetric strains; Local infinitesimal rotation; Strain compatibility condition
+- Linear stress-strain relation for isotropic bodies; Relation between material constants
+- Stress and strain matrices in the cylindrical coordinate system; Equations of equilibrium in the cylindrical coordinate system
+- Axisymmetric deformations: combined extension-torsion-inflation of a cylinder
+- Bending of beams having the symmetrical and non-symmetrical cross-section
+- Shear center, Shear flow in thin and open cross-section beams; Euler Bernoulli and Timoshenko beam theories; beam buckling
+- Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using the energy method
+- Various theories of failure and their application
+
+## Course References
+This course is based on three textbooks:
+*  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
+*  Kumar, Ajeet, *"Solid Mechanics for Undergraduates - Using Vectors and Tensors"*, White Falcon Publishing, 2024.
+*  Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014
+*  Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
+
+Other references
+* Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
+* Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
+* Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
+
+
+## Grading  
+
+|Component|Scores| Solutions | 
+|:---|:-----|:------ |
+|**Quiz #1**| 15 |  |
+|**Minor**| 30 |  |
+|**Quiz #2**| 15 |  |
+|**Major**| 40 | |
+|**Total** |100| |
+
+## Course Attendance
+Students are highly encouraged to attend all classes. **Students who have failed this course were found to have attended less than 60% of the total classes on an average**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
+
+
+## Policy for Cheating 
+**Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding exam. Please do not do anything you might regret.** 
+
 | Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
 | Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
