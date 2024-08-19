@@ -149,6 +149,11 @@ Other references
 ## Course Attendance
 Students are highly encouraged to attend all classes. **Students who have failed this course were found to have attended less than 60% of the total classes on an average**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
 
+Please note that re-quizzes will not be offered for missed quizzes, regardless of the reason.
+
+Retakes will be provided only for Minor and Major exams.
+
+For a missed quiz, your quiz grade will instead be calculated based on your performance in at least TWO other assessments (Minor/Reminor, Major/Remajor, and two Quizzes). If you are only able to appear for only one assessment, you will unfortunately be awarded zero marks on the missed assessments.
 
 ## Policy for Cheating 
 **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding exam. Please do not do anything you might regret.** 
