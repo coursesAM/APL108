@@ -153,8 +153,4 @@ Students are highly encouraged to attend all classes. **Students who have failed
 ## Policy for Cheating 
 **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding exam. Please do not do anything you might regret.** 
 
-| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
-| Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
-| Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
-| Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
-| Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
+
