@@ -68,11 +68,10 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 | Compatibility equations | [Tutorial 2](Tutorials/APL104_F24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
 | Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F24_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
+| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F24_Tutorial_5.pdf) | [Solution](Tutorials/ Tutorial5sol.pdf) |
 
 
 <!--
-| Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F23_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
-| Mohr's Circle| [Tutorial 5](Tutorials/APL104_F23_Tutorial_5.pdf) | [Solution](Tutorials/ Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL104_F23_Tutorial_6.pdf) | [Solution](Tutorials/ Tutorial6sol.pdf) |
 | Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F23_Tutorial_7.pdf) | [Solution](Tutorials/ Tutorial7sol.pdf) |
 | Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F23_Tutorial_8.pdf) | [Solution](Tutorials/ Tutorial8sol.pdf) |
