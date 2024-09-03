@@ -31,7 +31,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 |**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) | [Mod1 & 2](Lectures/Note1.pdf)|
 |**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) | [Mod3](Lectures/Note2.pdf)|
 |**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) | [Mod4-1](Lectures/Note3.pdf)|
-|**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)| 
+|**Module 05**| Mohr's Circle <br> Decomposition of Stress Tensor |  [2D Mohr's circle](Lectures/Lecture10.pdf) <br> [2D & 3D Mohr's circle](Lectures/Lecture11.pdf) <br> [Stress Invariants, Octahedral Stresses, etc.](Lectures/Lecture12.pdf)| [Mod5](Lectures/Note4.pdf)|
 |**Module 06**| Concept of Strain  | [Normal and Shear Strain](Lectures/Lecture13.pdf) <br> [Strain-displacement relation](Lectures/Lecture14.pdf) <br> [Strain compatibility](Lectures/Lecture15.pdf) <br> [Similarity of properties of stress and strain tensors](Lectures/Lecture16.pdf)|
 |**Module 07**| Stress-strain-temperature relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material and thermal strain](Lectures/Lecture18.pdf)|
 |**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) |
