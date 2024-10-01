@@ -138,7 +138,7 @@ Other references
 ## Grading  
 
 |Component|Scores| Solutions | 
-|:---|:-----|:------ |
+|:---|:-----|:------:|
 |**Quiz #1**| 15 |  |
 |**Minor**| 30 | [Sol](Exams/MinorSol24.pdf) |
 |**Quiz #2**| 15 |  |
