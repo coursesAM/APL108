@@ -140,7 +140,7 @@ Other references
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
 |**Quiz #1**| 15 |  |
-|**Minor**| 30 |  |
+|**Minor**| 30 | [Sol](Exams/MinorSol24.pdf) |
 |**Quiz #2**| 15 |  |
 |**Major**| 40 | |
 |**Total** |100| |
