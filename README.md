@@ -125,6 +125,7 @@ This is the first course where the deformation of solid bodies and the underlyin
 This course is based on three textbooks:
 *  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
 *  Kumar, Ajeet, *"Solid Mechanics for Undergraduates - Using Vectors and Tensors"*, White Falcon Publishing, 2024.
+*  Boresi, Arthur, *"Ädvanced Mechanics of Materials"*
 *  Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014
 *  Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
 
