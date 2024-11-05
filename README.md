@@ -37,7 +37,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 |**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) | Same as previous year |
 |**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22new.pdf)| Same as previous year |
 |**Module 10**| Uniform bending of symmetrical beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending of symmetrical beams](Lectures/Lecture24.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | 
-|**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's theorem](Lectures/Lecture29a.pdf)| 
+|**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's 2nd theorem](Lectures/Lecture29a.pdf)| 
 |**Module 12**| Failure Theories |  |
 
 <!--
