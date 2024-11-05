@@ -73,6 +73,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 | Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F24_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
 | Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F24_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F24_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
+| Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 10](Tutorials/APL104_F24_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
 
 <!--
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/ Tutorial9sol.pdf) |
