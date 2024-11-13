@@ -36,9 +36,9 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 |**Module 07**| Stress-strain-temperature relations  | [General stress-strain curves](Lectures/Lecture17.pdf) <br> [Isotropic linear elastic material and thermal strain](Lectures/Lecture18.pdf)| Same as previous year |
 |**Module 08**| Complete equations of linear elasticity  | [Equations and boundary conditions for unique solution](Lectures/Lecture19.pdf) | Same as previous year |
 |**Module 09**| Application to extension-torsion-inflation <br> in cylindrical coordinates | [Elasticity Equations in cylindrical coordinates](Lectures/Lecture20.pdf) <br> [Simplified equations](Lectures/Lecture21.pdf) <br> [Solving simplified equations](Lectures/Lecture22new.pdf)| Same as previous year |
-|**Module 10**| Uniform bending of symmetrical beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending of symmetrical beams](Lectures/Lecture24.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | 
-|**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's 2nd theorem](Lectures/Lecture29a.pdf) <br> [Principle of Virtual Work and Minimum Potential Energy] (Lectures/Energy_Kelly.pdf)| 
-|**Module 12**| Failure Theories | [Three basic failure theory](Lectures/Failure_Kelly.pdf) |
+|**Module 10**| Uniform bending of symmetrical beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending of symmetrical beams](Lectures/Lecture24.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | Same as previous year |
+|**Module 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's 2nd theorem](Lectures/Lecture29a.pdf) <br> [Principle of Virtual Work and Minimum Potential Energy](Lectures/Energy_Kelly.pdf)| Same as previous year |
+|**Module 12**| Failure Theories | [Three basic failure theory](Lectures/Failure_Kelly.pdf) | Same as previous year |
 
 <!--
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
