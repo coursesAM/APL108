@@ -144,7 +144,7 @@ Other references
 |**Quiz #1**| 15 |  |
 |**Minor**| 30 | [Sol](Exams/MinorSol24.pdf) |
 |**Quiz #2**| 15 |  |
-|**Major**| 40 | |
+|**Major**| 40 | [Sol](Exams/MajorSolF24_final.pdf)|
 |**Total** |100| |
 
 ## Course Attendance
