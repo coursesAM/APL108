@@ -13,7 +13,7 @@
 
 **Tutorial Session:** Mon (1:00 to 2:00 PM),  LHC 605 <br><br> 
 
-An attendance list of students in  tutorial sessions can be found [here]<br> 
+An attendance list of students in  tutorial sessions can be found [here]<br><br> 
 
 **Office hours (TA)**: Fri 4:00-5:00 pm (in Block 4 Room B-24) <br> 
  
