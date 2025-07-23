@@ -1,25 +1,25 @@
-# APL 104: Solid Mechanics (Fall semester 2024)
+# APL 108: Solid Mechanics for Civil Engineers (Fall semester 2025)
 
 ![image](https://user-images.githubusercontent.com/109568856/179663482-8b6b6fb0-1ed7-494c-9b82-5f720bb4d614.png)
 
 
 ## Course Info
 
-**Credit:** 4 units (3-1-0) <br> <br>
+**Credit:** 4 units (3-1-2) <br> <br>
 
 **Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
-**Class timings:** Tue, Wed & Fri (9:00 to 10:00 AM) at LHC 308 <br><br>
+**Class timings:** Tue, Thu & Fri (11:00 AM to 12:00 PM) at LHC 408 <br><br>
 
-**Tutorial Session:** Wed (2:00 to 3:00 PM),  Block II LT 1 <br><br> 
+**Tutorial Session:** Mon (1:00 to 2:00 PM),  LHC 605 <br><br> 
 
-An attendance list of students in  tutorial sessions can be found [here](https://docs.google.com/spreadsheets/d/1lqz1ZZ1twslXaL6lDjlNlxn4mmR53GI0De8FQfE78lM/edit?usp=sharing). <br> 
+An attendance list of students in  tutorial sessions can be found [here]<br> 
 
-**Office hours (TA)**: Wed 4:00-5:00 pm (in Block 4 Room B-24) <br> 
+**Office hours (TA)**: Fri 4:00-5:00 pm (in Block 4 Room B-24) <br> 
  
-**Intended audience:** BTech students in Applied Mechanics and Material Science
+**Intended audience:** BTech students in Civil Engineering
 
-**NOTE**-For *all course related emails*, please put **APL104** in the subject line <br>
+**NOTE**-For *all course related emails*, please put **APL108** in the subject line <br>
 
 
 ## Lecture Schedule
@@ -27,7 +27,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 |Module|Topics| Lecture Notes| In-class notes |
 |:----------------|:-------------:|:-----------------------------:|:----------------:|
 |**Module 00**| Why learn Solid Mechanics | [Introduction](Lectures/Lecture0.pdf) | |
-|**Module 01**| Analysis of Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | |
+|**Module 01**| Analysis of Civil/Mechanical System | [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | |
 |**Module 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) | [Mod1 & 2](Lectures/Note1.pdf)|
 |**Module 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) | [Mod3](Lectures/Note2.pdf)|
 |**Module 04**| Principal Stresses and Planes |  [Stress eigenvalue problem](Lectures/Lecture8.pdf) <br> [Maximum Normal and shear stress](Lectures/Lecture9.pdf) | [Mod4-1](Lectures/Note3.pdf)|
@@ -64,8 +64,8 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
-| Study of forces | [Tutorial 1](Tutorials/APL104_F24_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
-| Compatibility equations | [Tutorial 2](Tutorials/APL104_F24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
+| Study of forces | [Tutorial 1](Tutorials/APL108_F25_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
+<!--| Compatibility equations | [Tutorial 2](Tutorials/APL104_F24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
 | Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F24_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
 | Mohr's Circle| [Tutorial 5](Tutorials/APL104_F24_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
@@ -74,6 +74,7 @@ An attendance list of students in  tutorial sessions can be found [here](https:/
 | Extension-torsion-inflation | [Tutorial 8](Tutorials/APL104_F24_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8sol.pdf) |
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F24_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
 | Euler-Bernoulli beams <br> & Energy Methods | [Tutorial 10](Tutorials/APL104_F24_Tutorial_10.pdf) | [Solution](Tutorials/Tutorial10sol.pdf) |
+-->
 
 <!--
 | Uniform beam bending | [Tutorial 9](Tutorials/APL104_F23_Tutorial_9.pdf) | [Solution](Tutorials/ Tutorial9sol.pdf) |
