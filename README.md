@@ -110,7 +110,7 @@ An attendance list of students in  tutorial sessions can be found [here]<br><br>
 This is the first course where the deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building a foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study the extension, torsion, and bending of beams. The one-dimensional theory of beams is also introduced. Various theories of failure that are critical for the design of machine elements in the industry will also be discussed.
 
 ## Course Layout
-- Fundamental Principles of Mechanics; Introduction of mechanics of deformable bodies
+- Fundamental Principles of Mechanics; Introduction to mechanics of deformable bodies
 - Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
 - State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
 - Stress invariants; Octahedral Plane; Decomposition of stress tensor; Concept of strain and strain tensor
@@ -118,7 +118,7 @@ This is the first course where the deformation of solid bodies and the underlyin
 - Linear stress-strain relation for isotropic bodies; Relation between material constants
 - Stress and strain matrices in the cylindrical coordinate system; Equations of equilibrium in the cylindrical coordinate system
 - Axisymmetric deformations: combined extension-torsion-inflation of a cylinder
-- Bending of beams having the symmetrical and non-symmetrical cross-section
+- Bending of beams having symmetrical cross-section
 - Shear center, Shear flow in thin and open cross-section beams; Euler Bernoulli and Timoshenko beam theories; beam buckling
 - Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using the energy method
 - Various theories of failure and their application
