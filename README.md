@@ -30,6 +30,7 @@ An attendance list of students in  tutorial sessions can be found [here]<br><br>
 |:----------------|:-------------:|:-----------------------------:|
 |**Mod 01**| Recap of Engineering Mechanics and Motivation for Solid Mechanics  | [Introduction](Lectures/Lecture1.pdf) <br>
   [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | 
+  
 <--!
 |**Mod 02**| Traction |  [Traction vector](Lectures/Lecture4.pdf) <br> [Traction decomposition](Lectures/Lecture5.pdf) | [Mod1 & 2](Lectures/Note1.pdf)|
 |**Mod 03**| Stress |  [State of Stress at a point](Lectures/Lecture6.pdf) <br> [Stress equilibrium equation](Lectures/Lecture7.pdf) | [Mod3](Lectures/Note2.pdf)|
