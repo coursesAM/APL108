@@ -28,7 +28,7 @@ An attendance list of students in  tutorial sessions can be found [here]<br><br>
 
 |Module|Topics| Lecture Notes| 
 |:----------------|:-------------:|:-----------------------------:|
-|**Mod 01**| Recap of Engineering Mechanics and Motivation for Solid Mechanics  | [Introduction](Lectures/Lecture1.pdf) <br>
+|**Mod 01**| Recap of Engineering Mechanics <br> & Motivation for Solid Mechanics  | [Introduction](Lectures/Lecture1.pdf) <br>
   [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | 
   
 <--!
@@ -43,9 +43,7 @@ An attendance list of students in  tutorial sessions can be found [here]<br><br>
 |**Mod 10**| Uniform bending of symmetrical beams | [Uniform bending](Lectures/Lecture23.pdf) <br> [Non-uniform bending of symmetrical beams](Lectures/Lecture24.pdf) <br> [Deflection of beams and buckling](Lectures/Lecture27.pdf) | Same as previous year |
 |**Mod 11**| Energy methods | [External work and strain energy](Lectures/Lecture28.pdf) <br> [Castigliano's 2nd theorem](Lectures/Lecture29a.pdf) <br> [Principle of Virtual Work and Minimum Potential Energy](Lectures/Energy_Kelly.pdf)| Same as previous year |
 |**Mod 12**| Failure Theories | [Three basic failure theory](Lectures/Failure_Kelly.pdf) | Same as previous year |
-%
 |**Module 00**| Review of Engineering Mechanics | [Lecture 1](https://drive.google.com/file/d/1PC97bkmiM80aGB1XW78Y6nvA2_UTxess/view)| [Class 1](Class/cls1.pdf) &nbsp; [Class 2](Class/cls2.pdf) &nbsp; [Class 3](Class/cls3.pdf)|
-%
 |**Module 01**| Traction vector | [Lecture 2](https://drive.google.com/file/d/14RzFRCP_V56JR2eFWLgF0cbMLH71379X/view)| [Class 4](Class/cls4.pdf) &nbsp; [Class 5](Class/cls5.pdf) |
 |**Module 02**| Stress Tensor and its representation | [Lecture 3](https://drive.google.com/file/d/1V0RBcZnZ4d2PeDwhFvueK1CBuF6C7O2H/view)| [Class 6](Class/cls6.pdf) |
 |**Module 03**| Transformation of Stress matrix | [Lecture 4](https://drive.google.com/file/d/1xbHNqTUpShEuxyCFRF7BWrJhfOLfzn61/view)| [Class 6](Class/cls6.pdf) |
