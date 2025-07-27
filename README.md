@@ -19,6 +19,8 @@ An attendance list of students in  tutorial sessions can be found [here]<br><br>
  
 **Intended audience:** BTech students in Civil Engineering
 
+**Course Policy** can be found [here](course_policy_APL108)
+
 **NOTE**-For *all course related emails*, please put **APL108** in the subject line <br>
 
 
