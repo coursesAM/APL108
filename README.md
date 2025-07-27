@@ -13,7 +13,7 @@
 
 **Tutorial Session:** Mon (1:00 to 2:00 PM),  LHC 605 <br><br> 
 
-**Tutorial Attd:**  An attendance list of students in  tutorial sessions can be found [here]<br><br> 
+**Tutorial Attd:**  An attendance list of students in  tutorial sessions can be found [here](https://docs.google.com/spreadsheets/d/1DmuH79RXdI0QFoocMNKCicFelGh-YVHUf9xiHsSHHh4/edit?usp=sharing)<br><br> 
 
 **Office hours (TA):** Fri 4:00-5:00 pm (in Block 4 Room B-24) <br><br>
 
@@ -21,7 +21,7 @@
 
 **Intended audience:** BTech students in Civil Engineering
 
-**NOTE**-For *all course related emails*, please put **APL108** in the subject line <br>
+**NOTE:**For *all course related emails*, please put **APL108** in the subject line <br>
 
 
 ## Lecture Schedule
