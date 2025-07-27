@@ -38,6 +38,7 @@
 |Topics|Tutorial Questions| Tutorial Solutions |
 |:---------:|:--------:|:--------:|
 | Study of forces | [Tutorial 1](Tutorials/APL108_F25_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
+
 <!--| Compatibility equations | [Tutorial 2](Tutorials/APL104_F24_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
 | Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL104_F24_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
