@@ -15,11 +15,12 @@
 
 An attendance list of students in  tutorial sessions can be found [here]<br><br> 
 
-**Office hours (TA)**: Fri 4:00-5:00 pm (in Block 4 Room B-24) <br> 
+**Office hours (TA)**: Fri 4:00-5:00 pm (in Block 4 Room B-24) <br><br>
  
-**Intended audience:** BTech students in Civil Engineering
 
-**Course Policy** can be found [here](course_policy_APL108.pdf).
+**Course Policy** can be found [here](course_policy_APL108.pdf). <br><br>
+
+**Intended audience:** BTech students in Civil Engineering
 
 **NOTE**-For *all course related emails*, please put **APL108** in the subject line <br>
 
