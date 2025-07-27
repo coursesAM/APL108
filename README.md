@@ -122,20 +122,21 @@ This is the first course where the deformation of solid bodies and the underlyin
 - Stress and strain matrices in the cylindrical coordinate system; Equations of equilibrium in the cylindrical coordinate system
 - Axisymmetric deformations: combined extension-torsion-inflation of a cylinder
 - Bending of beams having symmetrical cross-section
-- Shear center, Shear flow in thin and open cross-section beams; Euler Bernoulli and Timoshenko beam theories; beam buckling
+- Shear center, Shear flow in thin and open cross-section beams; Euler-Bernoulli and Timoshenko beam theories; beam buckling
 - Energy methods, Reciprocal relations, Castigliano’s theorem, Deflection of straight and curved beams using the energy method
 - Various theories of failure and their application
 
 ## Course References
-This course is based on three textbooks:
+This course is based on two textbooks:
 *  Archer, Cook, Crandall, Dahl, Lardner, McClintock, Rabinowicz, Reichenbach, *"An Introduction To The Mechanics Of Solids"*, Tata Mcgraw Hill, 2012
 *  Kumar, Ajeet, *"Solid Mechanics for Undergraduates - Using Vectors and Tensors"*, White Falcon Publishing, 2024.
-*  Boresi, Arthur, *"Advanced Mechanics of Materials"*
   
 Other references
+* Boresi, Arthur, *"Advanced Mechanics of Materials"*, Wiley, 2019
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
-* Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
-* Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
+* Srinath, L.S., *"Advanced Solid Mechanics"*, Tata-MgGraw-Hill, 2008.
+* Hibbeler, R. C., *"Mechanics of Materials*", Prentice Hall, 2014
+* Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
 * Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
 
 
@@ -143,20 +144,19 @@ Other references
 
 |Component|Scores| Solutions | 
 |:---|:-----|:------:|
-|**Quiz #1**| 15 |  |
-|**Minor**| 30 | [Sol](Exams/MinorSol24.pdf) |
-|**Quiz #2**| 15 |  |
-|**Major**| 40 | [Sol](Exams/MajorSolF24_final.pdf)|
+|**Quizzes**| 20 |  |
+|**Minor**| 20 |  |
+|**Practical**| 20 |  |
+|**Major**| 35 | |
+|**Tutorial Attd**| 5 | |
 |**Total** |100| |
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. **Students who have failed this course were found to have attended less than 60% of the total classes on an average**. If any student has less than 75% tutorial attendance, he/she will get one grade less than would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with an email subject specifying the subject code APL 104. <br>
+Students are highly encouraged to attend all classes. **Students who have failed this course were found to have attended less than 60% of the total classes on average**. If any student has less than 75% tutorial attendance, he/she will get one grade less than they would have been awarded. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after the absence** with an email subject specifying the subject code APL 104. <br>
 
 Please note that re-quizzes will not be offered for missed quizzes, regardless of the reason.
 
 Retakes will be provided only for Minor and Major exams.
-
-For a missed quiz, your quiz grade will instead be calculated based on your performance in at least TWO other assessments (Minor/Reminor, Major/Remajor, and two Quizzes). If you are only able to appear for only one assessment, you will unfortunately be awarded zero marks on the missed assessments.
 
 ## Policy for Cheating 
 **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding exam. Please do not do anything you might regret.** 
