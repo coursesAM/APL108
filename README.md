@@ -28,8 +28,7 @@ An attendance list of students in  tutorial sessions can be found [here]<br><br>
 
 |Module|Topics| Lecture Notes| 
 |:----------------|:-------------:|:-----------------------------:|
-|**Mod 01**| Recap of Engineering Mechanics <br> & Motivation for Solid Mechanics  | [Introduction](Lectures/Lecture1.pdf) <br>
-  [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | 
+|**Mod 01**| Recap of Engineering Mechanics <br> & Motivation for Solid Mechanics  | [Introduction](Lectures/Lecture1.pdf) <br> [Study of forces](Lectures/Lecture1.pdf) <br> [Equilibrium conditions](Lectures/Lecture2.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lecture3.pdf) | 
   
 
 
