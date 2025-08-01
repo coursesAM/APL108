@@ -11,7 +11,7 @@
 
 **Class timings:** Tue, Thu & Fri (11:00 AM to 12:00 PM) at LHC 408 <br><br>
 
-**Tutorial Session:** Mon (1:00 to 2:00 PM),  LHC 605 <br><br> 
+**Tutorial Session:** Wed (3:00 to 4:00 PM),  LHC 308 <br><br> 
 
 **Tutorial Attd:**  An attendance list of students in  tutorial sessions can be found [here.](https://docs.google.com/spreadsheets/d/1DmuH79RXdI0QFoocMNKCicFelGh-YVHUf9xiHsSHHh4/edit?usp=sharing)<br><br> 
 
