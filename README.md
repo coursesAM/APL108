@@ -29,7 +29,7 @@
 |Module|Topics| Lecture Notes| 
 |:----------------|:-------------:|:-----------------------------:|
 |**Mod 01**| Recap of Engineering Mechanics <br> & Motivation for Solid Mechanics  | [Recap](Lectures/Lec1.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lec2.pdf)  | 
-|**Mod 02**| Traction |  [Traction vector](Lectures/Lec3.pdf) | 
+|**Mod 02**| Traction Vector and Stress Tensor |  [Traction vector](Lectures/Lec3.pdf) <br>  [Stress Tensor](Lectures/Lec4.pdf)  | 
 
 
 
