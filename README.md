@@ -1,4 +1,4 @@
-# APL 108: Solid Mechanics for Civil Engineers (Fall semester 2025)
+# APL 108: Mechanics of Solids for Civil Engineers (Fall semester 2025)
 
 ![image](https://user-images.githubusercontent.com/109568856/179663482-8b6b6fb0-1ed7-494c-9b82-5f720bb4d614.png)
 
