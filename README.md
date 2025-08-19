@@ -31,6 +31,7 @@
 |**Mod 01**| Recap of Engineering Mechanics <br> & Motivation for Solid Mechanics  | [Recap](Lectures/Lec1.pdf) <br> [Additional requirements for deformable bodies](Lectures/Lec2.pdf)  | 
 |**Mod 02**| Traction Vector and Stress Tensor |  [Traction vector](Lectures/Lec3.pdf) <br>  [Stress Tensor](Lectures/Lec4.pdf)  | 
 |**Mod 03**| Stress Equilibrium Eqns and Traction BC |  [Stress Equilibrium & Traction BC](Lectures/Lec5.pdf) | 
+|**Mod 04**| Principal stress, Principal planes <br> Planes of max/min shear stress|  [Principal Stress and Max/Min Shear Stress](Lectures/Lec6.pdf) | 
 
 
 
