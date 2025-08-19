@@ -43,8 +43,8 @@
 | Study of forces | [Tutorial 1](Tutorials/APL108_F25_Tutorial_1.pdf) | [Solution](Tutorials/Tutorial1sol.pdf) |
 | Force-Deformation and Compatibility equations | [Tutorial 2](Tutorials/APL108_F25_Tutorial_2.pdf) | [Solution](Tutorials/Tutorial2sol.pdf) |
 | Traction and Stress Equilibrium| [Tutorial 3](Tutorials/APL108_F25_Tutorial_3.pdf) | [Solution](Tutorials/Tutorial3sol.pdf) |
+| Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL108_F25_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
 <!--
-| Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL104_F24_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
 | Mohr's Circle| [Tutorial 5](Tutorials/APL104_F24_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL104_F24_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
 | Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F24_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
