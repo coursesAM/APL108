@@ -32,6 +32,7 @@
 |**Mod 02**| Traction Vector and Stress Tensor |  [Traction vector](Lectures/Lec3.pdf) <br>  [Stress Tensor](Lectures/Lec4.pdf)  | 
 |**Mod 03**| Stress Equilibrium Eqns and Traction BC |  [Stress Equilibrium & Traction BC](Lectures/Lec5.pdf) | 
 |**Mod 04**| Principal stress, Principal planes <br> Planes of max/min shear stress|  [Principal Stress and Max/Min Shear Stress](Lectures/Lec6.pdf) | 
+|**Mod 05**| 2D and 3D Stress Mohr's circles|  [Stress Mohr's Circle](Lectures/Lec7.pdf) | 
 
 
 
