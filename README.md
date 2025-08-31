@@ -33,6 +33,8 @@
 |**Mod 03**| Stress Equilibrium Eqns and Traction BC |  [Stress Equilibrium & Traction BC](Lectures/Lec5.pdf) | 
 |**Mod 04**| Principal stress, Principal planes <br> Planes of max/min shear stress|  [Principal Stress and Max/Min Shear Stress](Lectures/Lec6.pdf) | 
 |**Mod 05**| 2D and 3D Stress Mohr's circles|  [Stress Mohr's Circle](Lectures/Lec7.pdf) | 
+|**Mod 07**| Stress Invariants, Octahedral Stresses, Hydrostatic and Deviatoric Stress |  [Strain](Lectures/Lec8.pdf) | 
+|**Mod 06**| Concept of Normal and Shear Strain |  [Strain](Lectures/Lec9.pdf) | 
 
 
 
