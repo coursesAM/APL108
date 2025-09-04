@@ -34,7 +34,7 @@
 |**Mod 04**| Principal stress, Principal planes <br> Planes of max/min shear stress|  [Principal Stress and Max/Min Shear Stress](Lectures/Lec6.pdf) | 
 |**Mod 05**| 2D and 3D Stress Mohr's circles|  [Stress Mohr's Circle](Lectures/Lec7.pdf) | 
 |**Mod 06**| Stress Invariants, Octahedral Stresses <br> Hydrostatic and Deviatoric Stress |  [Addn. topics on Stress tensor](Lectures/Lec8.pdf) | 
-|**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
+|**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
 
 
 
