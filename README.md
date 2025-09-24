@@ -123,7 +123,7 @@ Other references
 |Component|Scores| Solutions | 
 |:---|:-----|:------:|
 |**Quizzes**| 20 |  |
-|**Minor**| 20 |  |
+|**Minor**| 20 | [MinorSol](Exams/MinorSol.pdf)  |
 |**Practical**| 20 |  |
 |**Major**| 35 | |
 |**Tutorial Attd**| 5 | |
