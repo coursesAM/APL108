@@ -35,6 +35,7 @@
 |**Mod 05**| 2D and 3D Stress Mohr's circles|  [Stress Mohr's Circle](Lectures/Lec7.pdf) | 
 |**Mod 06**| Stress Invariants, Octahedral Stresses <br> Hydrostatic and Deviatoric Stress |  [Addn. topics on Stress tensor](Lectures/Lec8.pdf) | 
 |**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
+|**Mod 08**| Constitutive relations |  [Response of real materials and mathematical modeling](Lectures/Lec14.pdf)  | 
 
 
 
@@ -49,6 +50,7 @@
 | Principal Stresses and Principal Planes| [Tutorial 4](Tutorials/APL108_F25_Tutorial_4.pdf) | [Solution](Tutorials/Tutorial4sol.pdf) |
 | Mohr's Circle| [Tutorial 5](Tutorials/APL108_F25_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL108_F25_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
+
 
 <!--
 | Complete equations of elasticity | [Tutorial 7](Tutorials/APL104_F24_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
