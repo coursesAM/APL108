@@ -35,8 +35,7 @@
 |**Mod 05**| 2D and 3D Stress Mohr's circles|  [Stress Mohr's Circle](Lectures/Lec7.pdf) | 
 |**Mod 06**| Stress Invariants, Octahedral Stresses <br> Hydrostatic and Deviatoric Stress |  [Addn. topics on Stress tensor](Lectures/Lec8.pdf) | 
 |**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
-|**Mod 08**| Constitutive relations |  [Response of real materials and mathematical modeling](Lectures/Lec14.pdf)  | 
-
+|**Mod 08**| Constitutive relations | [Material Behavior and Modelling](Lectures/Lec14.pdf) <br> [Response of real materials and mathematical modeling](Lectures/Lec15.pdf)  |
 
 
 
