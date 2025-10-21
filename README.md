@@ -21,7 +21,7 @@
 
 **Intended audience:** BTech students in Civil Engineering
 
-**NOTE:**For *all course related emails*, please put **APL108** in the subject line <br>
+**NOTE:** For *all course related emails*, please put **APL108** in the subject line <br>
 
 
 ## Lecture Schedule
@@ -36,7 +36,7 @@
 |**Mod 06**| Stress Invariants, Octahedral Stresses <br> Hydrostatic and Deviatoric Stress |  [Addn. topics on Stress tensor](Lectures/Lec8.pdf) | 
 |**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
 |**Mod 08**| Constitutive relations | [Material Behavior and Modeling](Lectures/Lec14.pdf) <br> [Response of real materials and idealizations](Lectures/Lec15.pdf) <br> [Linear elastic isotropic model](Lectures/Lec15.pdf) |
-|**Mod 09**| Applications: Axial Deformation | [Axial loading and deformation](Lectures/Lec17.pdf) |
+|**Mod 09**| Applications of elasticity  | [Axial loading and deformation](Lectures/Lec17.pdf) <br> [Torsion of circular members](Lectures/Lec18.pdf) |
 
 
 
