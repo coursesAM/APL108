@@ -51,7 +51,7 @@
 | Mohr's Circle| [Tutorial 5](Tutorials/APL108_F25_Tutorial_5.pdf) | [Solution](Tutorials/Tutorial5sol.pdf) |
 | Strain | [Tutorial 6](Tutorials/APL108_F25_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
 | Complete equations of linear elasticity | [Tutorial 7](Tutorials/APL108_F25_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
-| Applications of Extension and Torision | [Tutorial 8](Tutorials/APL108_F25_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8asol.pdf) |
+| Applications of Extension and Torision | [Tutorial 8](Tutorials/APL108_F25_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8asolv2.pdf) |
 
 
 <!--
