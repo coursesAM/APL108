@@ -36,7 +36,7 @@
 |**Mod 06**| Stress Invariants, Octahedral Stresses <br> Hydrostatic and Deviatoric Stress |  [Addn. topics on Stress tensor](Lectures/Lec8.pdf) | 
 |**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
 |**Mod 08**| Constitutive relations | [Material Behavior and Modeling](Lectures/Lec14.pdf) <br> [Response of real materials and idealizations](Lectures/Lec15.pdf) <br> [Linear elastic isotropic model](Lectures/Lec16.pdf) |
-|**Mod 09**| Applications of elasticity  | [Axial loading and deformation](Lectures/Lec17.pdf) <br> [Torsion of circular members](Lectures/Lec18.pdf) |
+|**Mod 09**| Applications of elasticity  | [Axial loading and deformation](Lectures/Lec17.pdf) <br> [Torsion of circular members](Lectures/Lec18.pdf) <br> [Uniform bending of beams](Lectures/Lec19.pdf) <br> [Non-uniform bending of beams](Lectures/Lec20.pdf)|
 
 
 
@@ -52,6 +52,7 @@
 | Strain | [Tutorial 6](Tutorials/APL108_F25_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
 | Complete equations of linear elasticity | [Tutorial 7](Tutorials/APL108_F25_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
 | Applications of Extension and Torision | [Tutorial 8](Tutorials/APL108_F25_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8solv2.pdf) |
+| Uniform and non-uniform bending of beams with symmetric C/S | [Tutorial 9](Tutorials/APL108_F25_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9.pdf) |
 
 
 <!--
