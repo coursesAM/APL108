@@ -52,7 +52,7 @@
 | Strain | [Tutorial 6](Tutorials/APL108_F25_Tutorial_6.pdf) | [Solution](Tutorials/Tutorial6sol.pdf) |
 | Complete equations of linear elasticity | [Tutorial 7](Tutorials/APL108_F25_Tutorial_7.pdf) | [Solution](Tutorials/Tutorial7sol.pdf) |
 | Applications of Extension and Torision | [Tutorial 8](Tutorials/APL108_F25_Tutorial_8.pdf) | [Solution](Tutorials/Tutorial8solv2.pdf) |
-| Uniform and non-uniform bending of beams with symmetric C/S | [Tutorial 9](Tutorials/APL108_F25_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9.pdf) |
+| Uniform and non-uniform bending of beams with symmetric C/S | [Tutorial 9](Tutorials/APL108_F25_Tutorial_9.pdf) | [Solution](Tutorials/Tutorial9sol.pdf) |
 
 
 <!--
