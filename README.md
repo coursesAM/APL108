@@ -37,7 +37,7 @@
 |**Mod 07**| Concept of Normal and Shear Strain <br> Strain displacement relation <br> Strain compatibility |  [Normal and Shear Strain](Lectures/Lec9.pdf) <br> [Strain displacement relation and Strain Tensor](Lectures/Lec10.pdf) <br> [Strain-Compatibility](Lectures/Lec11.pdf) <br> [Other topics on strain tensor](Lectures/Lec12.pdf) | 
 |**Mod 08**| Constitutive relations | [Material Behavior and Modeling](Lectures/Lec14.pdf) <br> [Response of real materials and idealizations](Lectures/Lec15.pdf) <br> [Linear elastic isotropic model](Lectures/Lec16.pdf) |
 |**Mod 09**| Applications of elasticity  | [Axial loading and deformation](Lectures/Lec17.pdf) <br> [Torsion of circular members](Lectures/Lec18.pdf) <br> [Uniform bending of beams](Lectures/Lec19.pdf) <br> [Non-uniform bending of beams](Lectures/Lec20.pdf) <br>  [Uniform beam bending with unsymmetrical C/S and/or loading](Lectures/Lec21.pdf) <br> [Transverse deflections of beams using Euler-Bernoulli theory](Lectures/Lec22.pdf)|
-
+|**Mod 10**| Energy Methods  | [Work-Energy Principle](Lectures/Lec23.pdf) <br> [Castigliano's 2nd theorem](Lectures/Lec24.pdf) <br> [Virtual Work and Minimum Potential Energy Theorem](Lectures/Lec25.pdf)|
 
 
 ## Tutorial Schedule
