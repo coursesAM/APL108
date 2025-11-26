@@ -132,7 +132,7 @@ Other references
 |**Quizzes**| 20 |  |
 |**Minor**| 20 | [MinorSol](Exams/MinorSol.pdf)  |
 |**Practical**| 20 |  |
-|**Major**| 35 | |
+|**Major**| 35 |[MajorSol](Exams/MajorSol.pdf) |
 |**Tutorial Attd**| 5 | |
 |**Total** |100| |
 
