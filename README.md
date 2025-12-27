@@ -5,7 +5,7 @@
 
 ## Course Info
 
-**Credit:** 4 units (3-1-2) <br> <br>
+**Credit:** 5 units (3-1-2) <br> <br>
 
 **Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
